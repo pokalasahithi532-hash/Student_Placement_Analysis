@@ -1,0 +1,5001 @@
+Student_ID,Actual_Placement_Status,Predicted_Placement_Status
+15202,Placed,Placed
+4573,Not Placed,Not Placed
+34424,Not Placed,Not Placed
+38881,Placed,Placed
+30191,Not Placed,Not Placed
+13635,Not Placed,Not Placed
+24929,Not Placed,Not Placed
+32313,Placed,Placed
+7207,Not Placed,Not Placed
+6914,Not Placed,Not Placed
+27120,Not Placed,Not Placed
+13254,Not Placed,Not Placed
+49098,Not Placed,Not Placed
+47647,Not Placed,Not Placed
+43993,Not Placed,Not Placed
+5880,Placed,Placed
+25053,Not Placed,Not Placed
+42721,Not Placed,Not Placed
+16836,Placed,Placed
+41937,Not Placed,Not Placed
+92,Not Placed,Not Placed
+10986,Not Placed,Not Placed
+24809,Placed,Placed
+25401,Not Placed,Not Placed
+49171,Not Placed,Not Placed
+2292,Placed,Placed
+1475,Not Placed,Not Placed
+14063,Not Placed,Not Placed
+23952,Placed,Placed
+48965,Placed,Placed
+33355,Placed,Placed
+2458,Not Placed,Not Placed
+35493,Not Placed,Not Placed
+8793,Not Placed,Not Placed
+32631,Not Placed,Not Placed
+28635,Not Placed,Not Placed
+12101,Placed,Placed
+1428,Not Placed,Not Placed
+13331,Placed,Placed
+30651,Not Placed,Not Placed
+22713,Not Placed,Not Placed
+10684,Not Placed,Not Placed
+14465,Placed,Placed
+31755,Not Placed,Not Placed
+8948,Not Placed,Not Placed
+39625,Not Placed,Not Placed
+7568,Placed,Placed
+35099,Not Placed,Not Placed
+10566,Not Placed,Not Placed
+36168,Not Placed,Not Placed
+13448,Not Placed,Not Placed
+1117,Placed,Placed
+31293,Not Placed,Not Placed
+21449,Not Placed,Not Placed
+4304,Not Placed,Not Placed
+28369,Not Placed,Not Placed
+23889,Placed,Placed
+15183,Not Placed,Not Placed
+39133,Placed,Placed
+33287,Placed,Placed
+17418,Not Placed,Not Placed
+30419,Placed,Placed
+32680,Not Placed,Not Placed
+31232,Placed,Placed
+8468,Not Placed,Not Placed
+29664,Not Placed,Not Placed
+16478,Not Placed,Not Placed
+6347,Not Placed,Not Placed
+185,Not Placed,Not Placed
+22234,Not Placed,Not Placed
+48374,Not Placed,Not Placed
+10708,Not Placed,Not Placed
+39441,Not Placed,Not Placed
+3627,Not Placed,Not Placed
+13089,Placed,Placed
+42420,Placed,Placed
+6491,Not Placed,Not Placed
+7179,Not Placed,Not Placed
+17385,Not Placed,Not Placed
+14297,Not Placed,Not Placed
+27286,Not Placed,Not Placed
+20982,Not Placed,Not Placed
+134,Placed,Placed
+18503,Placed,Placed
+10535,Not Placed,Not Placed
+30506,Not Placed,Not Placed
+20289,Not Placed,Not Placed
+26013,Not Placed,Not Placed
+3715,Not Placed,Not Placed
+49691,Not Placed,Not Placed
+3160,Placed,Placed
+10462,Placed,Placed
+29106,Not Placed,Not Placed
+45532,Not Placed,Not Placed
+40219,Placed,Placed
+21128,Not Placed,Not Placed
+45159,Not Placed,Not Placed
+13093,Placed,Placed
+35096,Not Placed,Not Placed
+35076,Not Placed,Not Placed
+26156,Not Placed,Not Placed
+21869,Not Placed,Not Placed
+46195,Not Placed,Not Placed
+16264,Placed,Placed
+23552,Not Placed,Not Placed
+46060,Not Placed,Not Placed
+17388,Placed,Placed
+27486,Not Placed,Not Placed
+30324,Placed,Placed
+17,Not Placed,Not Placed
+28684,Not Placed,Not Placed
+28435,Placed,Placed
+29757,Placed,Placed
+10385,Not Placed,Not Placed
+47418,Placed,Placed
+38903,Placed,Placed
+42901,Not Placed,Not Placed
+49666,Not Placed,Not Placed
+36515,Not Placed,Not Placed
+41657,Not Placed,Not Placed
+29734,Placed,Placed
+40476,Not Placed,Not Placed
+45617,Not Placed,Not Placed
+1857,Not Placed,Not Placed
+41754,Not Placed,Not Placed
+21439,Not Placed,Not Placed
+8754,Not Placed,Not Placed
+10919,Placed,Placed
+34427,Not Placed,Not Placed
+22757,Not Placed,Not Placed
+19642,Placed,Placed
+42635,Placed,Placed
+25035,Not Placed,Not Placed
+47664,Not Placed,Not Placed
+34396,Not Placed,Not Placed
+42687,Not Placed,Not Placed
+16860,Not Placed,Not Placed
+33952,Not Placed,Not Placed
+40897,Not Placed,Not Placed
+47817,Not Placed,Not Placed
+23693,Not Placed,Not Placed
+25800,Not Placed,Not Placed
+7838,Placed,Placed
+22695,Not Placed,Not Placed
+47318,Placed,Placed
+48952,Not Placed,Not Placed
+9467,Placed,Placed
+49698,Not Placed,Not Placed
+46934,Not Placed,Not Placed
+14136,Not Placed,Not Placed
+40663,Not Placed,Not Placed
+44131,Placed,Placed
+25457,Placed,Placed
+40863,Not Placed,Not Placed
+20931,Placed,Placed
+22736,Not Placed,Not Placed
+35340,Placed,Placed
+22022,Placed,Placed
+19694,Not Placed,Not Placed
+34363,Not Placed,Not Placed
+48264,Placed,Placed
+33610,Not Placed,Not Placed
+47509,Placed,Placed
+33611,Placed,Placed
+39916,Not Placed,Not Placed
+28853,Not Placed,Not Placed
+41459,Not Placed,Not Placed
+17794,Placed,Placed
+12374,Not Placed,Not Placed
+36279,Not Placed,Not Placed
+16410,Not Placed,Not Placed
+2967,Not Placed,Not Placed
+27344,Placed,Placed
+1353,Not Placed,Not Placed
+2843,Placed,Placed
+41212,Placed,Placed
+10689,Placed,Placed
+8364,Not Placed,Not Placed
+47906,Not Placed,Not Placed
+16567,Not Placed,Not Placed
+26756,Not Placed,Not Placed
+3888,Placed,Placed
+7637,Not Placed,Not Placed
+34869,Placed,Placed
+11220,Not Placed,Not Placed
+28728,Not Placed,Not Placed
+23983,Placed,Placed
+47543,Not Placed,Not Placed
+12219,Placed,Placed
+44685,Placed,Placed
+12976,Not Placed,Not Placed
+37418,Not Placed,Not Placed
+24258,Not Placed,Not Placed
+27170,Not Placed,Not Placed
+21044,Not Placed,Not Placed
+2943,Not Placed,Not Placed
+6975,Placed,Placed
+9224,Placed,Placed
+4977,Placed,Placed
+43577,Placed,Placed
+41858,Not Placed,Not Placed
+17773,Placed,Placed
+30098,Not Placed,Not Placed
+26590,Not Placed,Not Placed
+40344,Placed,Placed
+26579,Not Placed,Not Placed
+6798,Not Placed,Not Placed
+45787,Not Placed,Not Placed
+36778,Not Placed,Not Placed
+34030,Placed,Placed
+15013,Not Placed,Not Placed
+48193,Not Placed,Not Placed
+15346,Not Placed,Not Placed
+27248,Not Placed,Not Placed
+46022,Placed,Placed
+47706,Not Placed,Not Placed
+43681,Not Placed,Not Placed
+14085,Not Placed,Not Placed
+48761,Placed,Placed
+3608,Not Placed,Not Placed
+38874,Not Placed,Not Placed
+33797,Not Placed,Not Placed
+29626,Not Placed,Not Placed
+36562,Not Placed,Not Placed
+30937,Placed,Placed
+9528,Not Placed,Not Placed
+5294,Not Placed,Not Placed
+34857,Not Placed,Not Placed
+34066,Not Placed,Not Placed
+35190,Not Placed,Not Placed
+44903,Not Placed,Not Placed
+8412,Not Placed,Not Placed
+37060,Placed,Placed
+30058,Placed,Placed
+12185,Placed,Placed
+30145,Not Placed,Not Placed
+21618,Placed,Placed
+34237,Not Placed,Not Placed
+661,Placed,Placed
+28477,Placed,Placed
+29227,Placed,Placed
+25351,Not Placed,Not Placed
+962,Not Placed,Not Placed
+12336,Not Placed,Not Placed
+39261,Placed,Placed
+10729,Not Placed,Not Placed
+23883,Not Placed,Not Placed
+22321,Not Placed,Not Placed
+2002,Not Placed,Not Placed
+34124,Not Placed,Not Placed
+32929,Placed,Placed
+4650,Not Placed,Not Placed
+30020,Not Placed,Not Placed
+6495,Not Placed,Not Placed
+9406,Not Placed,Not Placed
+21957,Not Placed,Not Placed
+11983,Not Placed,Not Placed
+34926,Not Placed,Not Placed
+5933,Not Placed,Not Placed
+36369,Placed,Placed
+8790,Not Placed,Not Placed
+40586,Not Placed,Not Placed
+3333,Placed,Placed
+23664,Not Placed,Not Placed
+30194,Placed,Placed
+11410,Not Placed,Not Placed
+17745,Placed,Placed
+31578,Placed,Placed
+6848,Not Placed,Not Placed
+20274,Not Placed,Not Placed
+30818,Placed,Placed
+36512,Placed,Placed
+6380,Not Placed,Not Placed
+10520,Not Placed,Not Placed
+8323,Placed,Placed
+10576,Not Placed,Not Placed
+7160,Placed,Placed
+19856,Placed,Placed
+2641,Not Placed,Not Placed
+14259,Placed,Placed
+19028,Placed,Placed
+31390,Placed,Placed
+833,Not Placed,Not Placed
+42045,Placed,Placed
+42879,Not Placed,Not Placed
+1813,Not Placed,Not Placed
+34453,Not Placed,Not Placed
+19535,Not Placed,Not Placed
+22132,Placed,Placed
+6687,Not Placed,Not Placed
+24099,Not Placed,Not Placed
+41412,Not Placed,Not Placed
+41295,Not Placed,Not Placed
+33347,Not Placed,Not Placed
+6949,Placed,Placed
+32538,Placed,Placed
+36519,Not Placed,Not Placed
+44653,Not Placed,Not Placed
+15623,Not Placed,Not Placed
+27210,Not Placed,Not Placed
+12388,Not Placed,Not Placed
+21335,Not Placed,Not Placed
+14255,Not Placed,Not Placed
+39462,Not Placed,Not Placed
+7361,Not Placed,Not Placed
+44157,Not Placed,Not Placed
+28255,Placed,Placed
+18477,Not Placed,Not Placed
+43775,Placed,Placed
+45924,Placed,Placed
+17372,Placed,Placed
+35812,Not Placed,Not Placed
+4373,Not Placed,Not Placed
+33971,Not Placed,Not Placed
+28963,Placed,Placed
+38391,Not Placed,Not Placed
+25693,Not Placed,Not Placed
+18487,Not Placed,Not Placed
+14014,Placed,Placed
+41610,Not Placed,Not Placed
+43693,Not Placed,Not Placed
+19133,Not Placed,Not Placed
+48972,Not Placed,Not Placed
+32195,Not Placed,Not Placed
+41394,Not Placed,Not Placed
+11952,Not Placed,Not Placed
+1083,Placed,Placed
+5767,Placed,Placed
+2190,Placed,Placed
+8474,Not Placed,Not Placed
+823,Placed,Placed
+8552,Not Placed,Not Placed
+28879,Not Placed,Not Placed
+48196,Placed,Placed
+20021,Not Placed,Not Placed
+21591,Placed,Placed
+30230,Not Placed,Not Placed
+37215,Not Placed,Not Placed
+36293,Not Placed,Not Placed
+15375,Not Placed,Not Placed
+22721,Not Placed,Not Placed
+33693,Not Placed,Not Placed
+31453,Not Placed,Not Placed
+17469,Not Placed,Not Placed
+20342,Not Placed,Not Placed
+2605,Placed,Placed
+24971,Placed,Placed
+27956,Not Placed,Not Placed
+10240,Not Placed,Not Placed
+13476,Not Placed,Not Placed
+14767,Placed,Placed
+22191,Placed,Placed
+27616,Placed,Placed
+38740,Not Placed,Not Placed
+11488,Not Placed,Not Placed
+10326,Placed,Placed
+48410,Not Placed,Not Placed
+6337,Not Placed,Not Placed
+21282,Not Placed,Not Placed
+12763,Not Placed,Not Placed
+38058,Not Placed,Not Placed
+24168,Not Placed,Not Placed
+35431,Not Placed,Not Placed
+42428,Not Placed,Not Placed
+47119,Not Placed,Not Placed
+4787,Placed,Placed
+36974,Not Placed,Not Placed
+20537,Not Placed,Not Placed
+4074,Not Placed,Not Placed
+25395,Placed,Placed
+48718,Not Placed,Not Placed
+21100,Not Placed,Not Placed
+24474,Not Placed,Not Placed
+28330,Not Placed,Not Placed
+337,Placed,Placed
+26017,Placed,Placed
+26458,Placed,Placed
+23465,Placed,Placed
+17002,Placed,Placed
+8923,Not Placed,Not Placed
+48758,Not Placed,Not Placed
+37560,Placed,Placed
+26678,Not Placed,Not Placed
+45690,Not Placed,Not Placed
+25212,Not Placed,Not Placed
+14480,Placed,Placed
+43796,Not Placed,Not Placed
+36814,Not Placed,Not Placed
+14043,Placed,Placed
+11542,Placed,Placed
+20739,Not Placed,Not Placed
+11308,Placed,Placed
+18267,Not Placed,Not Placed
+1474,Placed,Placed
+35775,Placed,Placed
+47221,Placed,Placed
+16724,Not Placed,Not Placed
+34884,Placed,Placed
+6743,Not Placed,Not Placed
+20791,Placed,Placed
+24646,Not Placed,Not Placed
+40421,Not Placed,Not Placed
+49372,Not Placed,Not Placed
+31437,Not Placed,Not Placed
+41941,Not Placed,Not Placed
+40147,Not Placed,Not Placed
+30766,Not Placed,Not Placed
+28413,Not Placed,Not Placed
+14522,Not Placed,Not Placed
+1297,Not Placed,Not Placed
+21430,Not Placed,Not Placed
+36603,Placed,Placed
+4741,Not Placed,Not Placed
+24457,Placed,Placed
+29179,Not Placed,Not Placed
+28808,Not Placed,Not Placed
+41826,Placed,Placed
+23040,Placed,Placed
+18962,Not Placed,Not Placed
+311,Not Placed,Not Placed
+47015,Placed,Placed
+31719,Placed,Placed
+19824,Not Placed,Not Placed
+42473,Not Placed,Not Placed
+39768,Placed,Placed
+39278,Not Placed,Not Placed
+25093,Not Placed,Not Placed
+37749,Not Placed,Not Placed
+18050,Not Placed,Not Placed
+1418,Not Placed,Not Placed
+15412,Not Placed,Not Placed
+19063,Not Placed,Not Placed
+45735,Not Placed,Not Placed
+45299,Placed,Placed
+18577,Not Placed,Not Placed
+46346,Not Placed,Not Placed
+9918,Not Placed,Not Placed
+8628,Not Placed,Not Placed
+30327,Placed,Placed
+6094,Placed,Placed
+16584,Not Placed,Not Placed
+6360,Placed,Placed
+46754,Placed,Placed
+5372,Not Placed,Not Placed
+47592,Not Placed,Not Placed
+33684,Not Placed,Not Placed
+27719,Not Placed,Not Placed
+22205,Not Placed,Not Placed
+49905,Placed,Placed
+10568,Not Placed,Not Placed
+26903,Not Placed,Not Placed
+18546,Not Placed,Not Placed
+8064,Not Placed,Not Placed
+26550,Not Placed,Not Placed
+18772,Not Placed,Not Placed
+38537,Not Placed,Not Placed
+14973,Not Placed,Not Placed
+21876,Not Placed,Not Placed
+48571,Not Placed,Not Placed
+7175,Placed,Placed
+263,Placed,Placed
+11766,Not Placed,Not Placed
+35696,Not Placed,Not Placed
+46771,Placed,Placed
+32523,Placed,Placed
+25852,Not Placed,Not Placed
+31538,Not Placed,Not Placed
+2485,Not Placed,Not Placed
+4946,Placed,Placed
+6792,Placed,Placed
+24320,Not Placed,Not Placed
+48342,Not Placed,Not Placed
+44807,Not Placed,Not Placed
+24462,Not Placed,Not Placed
+19148,Not Placed,Not Placed
+43183,Not Placed,Not Placed
+29296,Placed,Placed
+44659,Placed,Placed
+11008,Placed,Placed
+41714,Not Placed,Not Placed
+380,Placed,Placed
+23351,Not Placed,Not Placed
+40309,Placed,Placed
+30984,Not Placed,Not Placed
+15319,Not Placed,Not Placed
+30667,Not Placed,Not Placed
+48037,Not Placed,Not Placed
+30629,Not Placed,Not Placed
+37261,Not Placed,Not Placed
+36320,Not Placed,Not Placed
+47193,Not Placed,Not Placed
+43764,Not Placed,Not Placed
+36894,Not Placed,Not Placed
+17792,Not Placed,Not Placed
+5259,Not Placed,Not Placed
+16048,Placed,Placed
+18814,Not Placed,Not Placed
+13632,Not Placed,Not Placed
+49642,Not Placed,Not Placed
+40259,Not Placed,Not Placed
+43997,Placed,Placed
+18809,Not Placed,Not Placed
+19682,Not Placed,Not Placed
+44872,Not Placed,Not Placed
+33433,Placed,Placed
+9502,Placed,Placed
+40197,Placed,Placed
+29072,Not Placed,Not Placed
+28321,Not Placed,Not Placed
+26554,Placed,Placed
+2438,Not Placed,Not Placed
+7399,Not Placed,Not Placed
+7556,Not Placed,Not Placed
+9466,Not Placed,Not Placed
+20966,Placed,Placed
+43290,Not Placed,Not Placed
+34661,Not Placed,Not Placed
+14550,Placed,Placed
+11770,Not Placed,Not Placed
+37910,Placed,Placed
+6642,Not Placed,Not Placed
+21698,Not Placed,Not Placed
+26093,Placed,Placed
+22184,Not Placed,Not Placed
+31757,Not Placed,Not Placed
+24012,Not Placed,Not Placed
+32589,Placed,Placed
+9996,Placed,Placed
+24894,Not Placed,Not Placed
+165,Not Placed,Not Placed
+19715,Placed,Placed
+24461,Not Placed,Not Placed
+40961,Placed,Placed
+6947,Not Placed,Not Placed
+44860,Placed,Placed
+39604,Placed,Placed
+25856,Not Placed,Not Placed
+13850,Placed,Placed
+24647,Placed,Placed
+3020,Not Placed,Not Placed
+1226,Placed,Placed
+49897,Not Placed,Not Placed
+40925,Placed,Placed
+9572,Not Placed,Not Placed
+5437,Not Placed,Not Placed
+4266,Placed,Placed
+37009,Not Placed,Not Placed
+6742,Not Placed,Not Placed
+43540,Placed,Placed
+2565,Not Placed,Not Placed
+22583,Not Placed,Not Placed
+33739,Not Placed,Not Placed
+26015,Placed,Placed
+4144,Not Placed,Not Placed
+30354,Placed,Placed
+33581,Placed,Placed
+22448,Not Placed,Not Placed
+26776,Not Placed,Not Placed
+9244,Not Placed,Not Placed
+10203,Not Placed,Not Placed
+11204,Not Placed,Not Placed
+20286,Not Placed,Not Placed
+41007,Not Placed,Not Placed
+7432,Not Placed,Not Placed
+40736,Not Placed,Not Placed
+17020,Not Placed,Not Placed
+30275,Placed,Placed
+37641,Not Placed,Not Placed
+42560,Not Placed,Not Placed
+28742,Not Placed,Not Placed
+34211,Not Placed,Not Placed
+27021,Placed,Placed
+21533,Not Placed,Not Placed
+1854,Placed,Placed
+33400,Placed,Placed
+11107,Not Placed,Not Placed
+9902,Placed,Placed
+10006,Not Placed,Not Placed
+18039,Placed,Placed
+29675,Not Placed,Not Placed
+7044,Not Placed,Not Placed
+197,Not Placed,Not Placed
+1633,Placed,Placed
+36105,Not Placed,Not Placed
+16178,Placed,Placed
+32323,Not Placed,Not Placed
+41031,Not Placed,Not Placed
+42796,Not Placed,Not Placed
+14834,Not Placed,Not Placed
+48869,Placed,Placed
+26060,Not Placed,Not Placed
+22957,Placed,Placed
+11061,Not Placed,Not Placed
+27051,Not Placed,Not Placed
+42891,Placed,Placed
+42898,Not Placed,Not Placed
+9190,Not Placed,Not Placed
+20845,Placed,Placed
+7142,Placed,Placed
+49968,Not Placed,Not Placed
+19271,Not Placed,Not Placed
+8067,Not Placed,Not Placed
+14207,Not Placed,Not Placed
+44601,Not Placed,Not Placed
+40985,Not Placed,Not Placed
+43513,Not Placed,Not Placed
+8991,Not Placed,Not Placed
+45967,Not Placed,Not Placed
+45276,Not Placed,Not Placed
+44456,Placed,Placed
+46956,Placed,Placed
+42667,Not Placed,Not Placed
+1109,Not Placed,Not Placed
+27171,Not Placed,Not Placed
+24379,Not Placed,Not Placed
+6753,Placed,Placed
+49322,Not Placed,Not Placed
+7563,Placed,Placed
+29874,Not Placed,Not Placed
+36976,Placed,Placed
+11977,Placed,Placed
+40782,Not Placed,Not Placed
+48356,Not Placed,Not Placed
+2712,Placed,Placed
+43233,Not Placed,Not Placed
+43784,Not Placed,Not Placed
+42938,Placed,Placed
+33346,Placed,Placed
+18969,Not Placed,Not Placed
+40808,Not Placed,Not Placed
+15889,Not Placed,Not Placed
+24513,Placed,Placed
+2895,Placed,Placed
+6579,Placed,Placed
+34507,Not Placed,Not Placed
+18178,Not Placed,Not Placed
+5109,Not Placed,Not Placed
+31167,Placed,Placed
+29646,Not Placed,Not Placed
+43819,Placed,Placed
+38282,Not Placed,Not Placed
+34587,Not Placed,Not Placed
+15204,Placed,Placed
+11088,Not Placed,Not Placed
+32800,Placed,Placed
+7182,Placed,Placed
+41291,Placed,Placed
+49960,Not Placed,Not Placed
+49858,Not Placed,Not Placed
+29308,Placed,Placed
+5599,Placed,Placed
+41185,Not Placed,Not Placed
+43455,Placed,Placed
+30032,Not Placed,Not Placed
+44023,Placed,Placed
+23409,Placed,Placed
+34065,Not Placed,Not Placed
+49806,Placed,Placed
+13981,Placed,Placed
+35872,Placed,Placed
+47600,Placed,Placed
+19991,Not Placed,Not Placed
+12606,Not Placed,Not Placed
+11629,Not Placed,Not Placed
+20497,Not Placed,Not Placed
+44984,Not Placed,Not Placed
+17720,Placed,Placed
+27476,Placed,Placed
+7953,Not Placed,Not Placed
+40099,Not Placed,Not Placed
+26553,Not Placed,Not Placed
+7362,Not Placed,Not Placed
+43684,Not Placed,Not Placed
+48186,Not Placed,Not Placed
+22433,Placed,Placed
+552,Placed,Placed
+38897,Placed,Placed
+12149,Placed,Placed
+2970,Placed,Placed
+48600,Not Placed,Not Placed
+30888,Not Placed,Not Placed
+26446,Not Placed,Not Placed
+46259,Not Placed,Not Placed
+43108,Placed,Placed
+48589,Not Placed,Not Placed
+3713,Not Placed,Not Placed
+16812,Not Placed,Not Placed
+17791,Not Placed,Not Placed
+40945,Placed,Placed
+19734,Placed,Placed
+317,Not Placed,Not Placed
+29317,Placed,Placed
+48021,Placed,Placed
+3138,Placed,Placed
+47249,Placed,Placed
+5255,Placed,Placed
+24573,Not Placed,Not Placed
+3056,Placed,Placed
+40744,Placed,Placed
+10889,Not Placed,Not Placed
+43522,Not Placed,Not Placed
+44867,Not Placed,Not Placed
+37739,Placed,Placed
+48550,Not Placed,Not Placed
+32090,Placed,Placed
+12032,Placed,Placed
+8079,Not Placed,Not Placed
+13527,Not Placed,Not Placed
+6856,Placed,Placed
+21764,Not Placed,Not Placed
+48704,Not Placed,Not Placed
+25219,Placed,Placed
+20639,Not Placed,Not Placed
+42797,Not Placed,Not Placed
+36283,Not Placed,Not Placed
+43006,Not Placed,Not Placed
+45948,Not Placed,Not Placed
+37450,Not Placed,Not Placed
+10278,Placed,Placed
+5768,Not Placed,Not Placed
+5010,Not Placed,Not Placed
+12097,Not Placed,Not Placed
+30455,Not Placed,Not Placed
+13995,Not Placed,Not Placed
+1691,Not Placed,Not Placed
+35159,Placed,Placed
+28991,Placed,Placed
+10454,Not Placed,Not Placed
+14298,Not Placed,Not Placed
+49659,Not Placed,Not Placed
+46066,Not Placed,Not Placed
+8810,Not Placed,Not Placed
+39124,Not Placed,Not Placed
+7063,Not Placed,Not Placed
+16340,Not Placed,Not Placed
+45688,Placed,Placed
+38134,Not Placed,Not Placed
+48773,Placed,Placed
+11802,Not Placed,Not Placed
+41333,Placed,Placed
+22275,Placed,Placed
+1844,Not Placed,Not Placed
+31951,Not Placed,Not Placed
+2108,Placed,Placed
+46572,Not Placed,Not Placed
+34497,Not Placed,Not Placed
+40304,Not Placed,Not Placed
+46302,Not Placed,Not Placed
+35369,Not Placed,Not Placed
+36918,Placed,Placed
+45859,Placed,Placed
+49891,Not Placed,Not Placed
+15794,Not Placed,Not Placed
+47155,Not Placed,Not Placed
+10509,Placed,Placed
+48935,Placed,Placed
+20453,Placed,Placed
+31084,Not Placed,Not Placed
+44658,Placed,Placed
+30263,Placed,Placed
+147,Placed,Placed
+18047,Not Placed,Not Placed
+30001,Placed,Placed
+30565,Not Placed,Not Placed
+7366,Placed,Placed
+21026,Not Placed,Not Placed
+18061,Placed,Placed
+44381,Not Placed,Not Placed
+45429,Not Placed,Not Placed
+21398,Placed,Placed
+43418,Not Placed,Not Placed
+32250,Not Placed,Not Placed
+9436,Placed,Placed
+13493,Not Placed,Not Placed
+21718,Not Placed,Not Placed
+42038,Not Placed,Not Placed
+18543,Not Placed,Not Placed
+43596,Not Placed,Not Placed
+16629,Not Placed,Not Placed
+6568,Not Placed,Not Placed
+13408,Not Placed,Not Placed
+10357,Not Placed,Not Placed
+29291,Not Placed,Not Placed
+46109,Not Placed,Not Placed
+36996,Not Placed,Not Placed
+28446,Placed,Placed
+12682,Not Placed,Not Placed
+9539,Placed,Placed
+42202,Placed,Placed
+32507,Placed,Placed
+5458,Placed,Placed
+41808,Not Placed,Not Placed
+45995,Placed,Placed
+3286,Not Placed,Not Placed
+30068,Placed,Placed
+30047,Not Placed,Not Placed
+26970,Not Placed,Not Placed
+24336,Not Placed,Not Placed
+5050,Placed,Placed
+41436,Not Placed,Not Placed
+43268,Placed,Placed
+18294,Not Placed,Not Placed
+41099,Placed,Placed
+7538,Not Placed,Not Placed
+35895,Not Placed,Not Placed
+27880,Placed,Placed
+32688,Not Placed,Not Placed
+28884,Not Placed,Not Placed
+22061,Not Placed,Not Placed
+49076,Not Placed,Not Placed
+6875,Not Placed,Not Placed
+29970,Not Placed,Not Placed
+24275,Not Placed,Not Placed
+48300,Not Placed,Not Placed
+28415,Placed,Placed
+45612,Not Placed,Not Placed
+42873,Not Placed,Not Placed
+11281,Not Placed,Not Placed
+43153,Not Placed,Not Placed
+7083,Not Placed,Not Placed
+39964,Placed,Placed
+31808,Placed,Placed
+27667,Not Placed,Not Placed
+41508,Placed,Placed
+35612,Not Placed,Not Placed
+40569,Not Placed,Not Placed
+45071,Not Placed,Not Placed
+42648,Placed,Placed
+23927,Not Placed,Not Placed
+47496,Not Placed,Not Placed
+20029,Placed,Placed
+44190,Placed,Placed
+13317,Not Placed,Not Placed
+40016,Not Placed,Not Placed
+20949,Placed,Placed
+35745,Placed,Placed
+14488,Not Placed,Not Placed
+44158,Not Placed,Not Placed
+8112,Placed,Placed
+40063,Placed,Placed
+3649,Not Placed,Not Placed
+34143,Not Placed,Not Placed
+34352,Not Placed,Not Placed
+14217,Placed,Placed
+19323,Not Placed,Not Placed
+1664,Not Placed,Not Placed
+33810,Not Placed,Not Placed
+34443,Placed,Placed
+39285,Not Placed,Not Placed
+35714,Placed,Placed
+21744,Not Placed,Not Placed
+4157,Not Placed,Not Placed
+28740,Not Placed,Not Placed
+1197,Not Placed,Not Placed
+33167,Not Placed,Not Placed
+6174,Not Placed,Not Placed
+32778,Not Placed,Not Placed
+49997,Not Placed,Not Placed
+44272,Not Placed,Not Placed
+719,Placed,Placed
+8267,Placed,Placed
+11461,Placed,Placed
+49649,Placed,Placed
+10088,Placed,Placed
+1973,Placed,Placed
+47616,Not Placed,Not Placed
+7743,Placed,Placed
+7404,Placed,Placed
+3487,Placed,Placed
+5494,Not Placed,Not Placed
+33529,Placed,Placed
+4800,Placed,Placed
+25755,Not Placed,Not Placed
+34103,Not Placed,Not Placed
+24671,Not Placed,Not Placed
+9778,Not Placed,Not Placed
+1499,Not Placed,Not Placed
+20224,Not Placed,Not Placed
+24205,Not Placed,Not Placed
+36172,Placed,Placed
+29963,Not Placed,Not Placed
+19338,Not Placed,Not Placed
+27111,Not Placed,Not Placed
+2746,Not Placed,Not Placed
+48652,Not Placed,Not Placed
+36325,Not Placed,Not Placed
+43898,Not Placed,Not Placed
+9111,Placed,Placed
+44189,Not Placed,Not Placed
+11350,Placed,Placed
+34649,Not Placed,Not Placed
+14730,Placed,Placed
+14219,Not Placed,Not Placed
+48382,Placed,Placed
+42413,Not Placed,Not Placed
+35202,Not Placed,Not Placed
+15674,Placed,Placed
+29590,Placed,Placed
+3617,Placed,Placed
+45137,Not Placed,Not Placed
+35501,Not Placed,Not Placed
+12034,Placed,Placed
+48747,Not Placed,Not Placed
+44575,Not Placed,Not Placed
+3453,Placed,Placed
+43780,Not Placed,Not Placed
+23091,Not Placed,Not Placed
+28215,Not Placed,Not Placed
+407,Not Placed,Not Placed
+47238,Placed,Placed
+3486,Placed,Placed
+10861,Not Placed,Not Placed
+10702,Placed,Placed
+32331,Not Placed,Not Placed
+29539,Placed,Placed
+28664,Not Placed,Not Placed
+4073,Placed,Placed
+25487,Placed,Placed
+37890,Placed,Placed
+42604,Placed,Placed
+49999,Not Placed,Not Placed
+39929,Not Placed,Not Placed
+11785,Not Placed,Not Placed
+35561,Not Placed,Not Placed
+27180,Not Placed,Not Placed
+42398,Not Placed,Not Placed
+29572,Not Placed,Not Placed
+19873,Placed,Placed
+43644,Not Placed,Not Placed
+18200,Placed,Placed
+21199,Placed,Placed
+36429,Not Placed,Not Placed
+37398,Not Placed,Not Placed
+9859,Not Placed,Not Placed
+37342,Not Placed,Not Placed
+14723,Placed,Placed
+23268,Placed,Placed
+3378,Placed,Placed
+42239,Placed,Placed
+45219,Placed,Placed
+12736,Not Placed,Not Placed
+400,Placed,Placed
+6430,Placed,Placed
+19053,Not Placed,Not Placed
+42085,Placed,Placed
+38258,Placed,Placed
+16359,Placed,Placed
+4449,Placed,Placed
+1957,Not Placed,Not Placed
+28048,Not Placed,Not Placed
+16851,Not Placed,Not Placed
+27538,Not Placed,Not Placed
+42178,Placed,Placed
+45089,Placed,Placed
+47803,Placed,Placed
+29330,Not Placed,Not Placed
+42838,Not Placed,Not Placed
+15446,Placed,Placed
+37358,Placed,Placed
+12174,Placed,Placed
+24694,Not Placed,Not Placed
+27203,Not Placed,Not Placed
+36530,Not Placed,Not Placed
+39686,Not Placed,Not Placed
+23145,Not Placed,Not Placed
+22672,Not Placed,Not Placed
+23429,Not Placed,Not Placed
+43838,Placed,Placed
+18288,Placed,Placed
+31180,Not Placed,Not Placed
+43395,Placed,Placed
+9311,Not Placed,Not Placed
+36049,Placed,Placed
+3778,Not Placed,Not Placed
+2773,Not Placed,Not Placed
+30311,Not Placed,Not Placed
+228,Not Placed,Not Placed
+38561,Not Placed,Not Placed
+44025,Placed,Placed
+12842,Placed,Placed
+8418,Placed,Placed
+32816,Not Placed,Not Placed
+22728,Placed,Placed
+21997,Placed,Placed
+29641,Not Placed,Not Placed
+39841,Not Placed,Not Placed
+22875,Not Placed,Not Placed
+7740,Placed,Placed
+46515,Placed,Placed
+19153,Not Placed,Not Placed
+47031,Not Placed,Not Placed
+16626,Placed,Placed
+9761,Not Placed,Not Placed
+9732,Not Placed,Not Placed
+12791,Placed,Placed
+26408,Placed,Placed
+25229,Placed,Placed
+36235,Placed,Placed
+34489,Not Placed,Not Placed
+6130,Not Placed,Not Placed
+12398,Placed,Placed
+49133,Not Placed,Not Placed
+24365,Not Placed,Not Placed
+41093,Not Placed,Not Placed
+30969,Not Placed,Not Placed
+36269,Not Placed,Not Placed
+32101,Placed,Placed
+46863,Not Placed,Not Placed
+448,Not Placed,Not Placed
+38384,Placed,Placed
+21478,Placed,Placed
+33419,Placed,Placed
+28515,Placed,Placed
+27157,Not Placed,Not Placed
+32030,Placed,Placed
+13644,Not Placed,Not Placed
+2573,Not Placed,Not Placed
+3594,Not Placed,Not Placed
+17762,Not Placed,Not Placed
+49498,Not Placed,Not Placed
+32748,Placed,Placed
+22742,Placed,Placed
+16240,Not Placed,Not Placed
+13095,Placed,Placed
+44547,Not Placed,Not Placed
+32582,Placed,Placed
+32744,Placed,Placed
+26253,Not Placed,Not Placed
+44957,Not Placed,Not Placed
+41986,Not Placed,Not Placed
+45313,Not Placed,Not Placed
+19809,Not Placed,Not Placed
+6955,Not Placed,Not Placed
+6545,Not Placed,Not Placed
+43250,Not Placed,Not Placed
+9698,Not Placed,Not Placed
+30592,Not Placed,Not Placed
+24241,Placed,Placed
+22797,Not Placed,Not Placed
+14761,Not Placed,Not Placed
+14833,Placed,Placed
+29460,Placed,Placed
+33729,Placed,Placed
+16766,Not Placed,Not Placed
+21094,Placed,Placed
+17776,Not Placed,Not Placed
+13242,Placed,Placed
+13689,Placed,Placed
+22743,Placed,Placed
+21803,Not Placed,Not Placed
+44426,Not Placed,Not Placed
+3365,Not Placed,Not Placed
+18697,Not Placed,Not Placed
+8603,Placed,Placed
+45679,Not Placed,Not Placed
+32583,Not Placed,Not Placed
+26142,Placed,Placed
+8858,Placed,Placed
+9887,Not Placed,Not Placed
+35907,Not Placed,Not Placed
+6927,Placed,Placed
+21830,Not Placed,Not Placed
+13918,Placed,Placed
+30527,Not Placed,Not Placed
+46678,Placed,Placed
+48124,Placed,Placed
+18222,Not Placed,Not Placed
+16615,Placed,Placed
+13559,Not Placed,Not Placed
+31141,Not Placed,Not Placed
+12527,Placed,Placed
+48210,Not Placed,Not Placed
+32847,Not Placed,Not Placed
+46884,Not Placed,Not Placed
+18468,Placed,Placed
+2425,Placed,Placed
+2024,Not Placed,Not Placed
+15178,Not Placed,Not Placed
+48534,Not Placed,Not Placed
+26544,Not Placed,Not Placed
+13246,Not Placed,Not Placed
+2355,Placed,Placed
+13966,Placed,Placed
+38952,Not Placed,Not Placed
+24010,Placed,Placed
+10768,Placed,Placed
+12974,Not Placed,Not Placed
+32299,Not Placed,Not Placed
+17258,Not Placed,Not Placed
+41615,Not Placed,Not Placed
+34652,Placed,Placed
+12418,Not Placed,Not Placed
+2056,Not Placed,Not Placed
+12619,Not Placed,Not Placed
+19178,Placed,Placed
+31242,Not Placed,Not Placed
+15481,Placed,Placed
+7699,Not Placed,Not Placed
+42943,Not Placed,Not Placed
+48154,Placed,Placed
+36234,Not Placed,Not Placed
+13884,Placed,Placed
+10958,Placed,Placed
+28492,Placed,Placed
+28157,Placed,Placed
+18612,Not Placed,Not Placed
+18329,Placed,Placed
+30668,Placed,Placed
+44764,Placed,Placed
+3257,Not Placed,Not Placed
+4596,Not Placed,Not Placed
+15000,Not Placed,Not Placed
+40124,Not Placed,Not Placed
+13837,Not Placed,Not Placed
+37158,Not Placed,Not Placed
+47142,Not Placed,Not Placed
+43011,Placed,Placed
+43591,Not Placed,Not Placed
+38164,Not Placed,Not Placed
+25481,Placed,Placed
+47960,Not Placed,Not Placed
+30893,Placed,Placed
+34563,Placed,Placed
+45377,Not Placed,Not Placed
+24157,Placed,Placed
+19388,Not Placed,Not Placed
+25651,Not Placed,Not Placed
+33253,Placed,Placed
+30226,Not Placed,Not Placed
+36057,Not Placed,Not Placed
+25633,Not Placed,Not Placed
+45477,Placed,Placed
+1885,Not Placed,Not Placed
+1936,Not Placed,Not Placed
+48111,Not Placed,Not Placed
+8560,Not Placed,Not Placed
+28618,Placed,Placed
+9322,Placed,Placed
+34073,Not Placed,Not Placed
+20,Not Placed,Not Placed
+42320,Placed,Placed
+1736,Not Placed,Not Placed
+32594,Placed,Placed
+25621,Not Placed,Not Placed
+26729,Placed,Placed
+24063,Not Placed,Not Placed
+2618,Placed,Placed
+32288,Not Placed,Not Placed
+8435,Not Placed,Not Placed
+4381,Not Placed,Not Placed
+9599,Not Placed,Not Placed
+38180,Not Placed,Not Placed
+36413,Not Placed,Not Placed
+37629,Placed,Placed
+16184,Not Placed,Not Placed
+31153,Placed,Placed
+22388,Placed,Placed
+44208,Not Placed,Not Placed
+6425,Not Placed,Not Placed
+6588,Placed,Placed
+18280,Placed,Placed
+19111,Not Placed,Not Placed
+3622,Placed,Placed
+46174,Placed,Placed
+31631,Not Placed,Not Placed
+17142,Placed,Placed
+11459,Not Placed,Not Placed
+32308,Not Placed,Not Placed
+1969,Not Placed,Not Placed
+44904,Not Placed,Not Placed
+20897,Not Placed,Not Placed
+40987,Not Placed,Not Placed
+4661,Placed,Placed
+46712,Placed,Placed
+22818,Placed,Placed
+4553,Not Placed,Not Placed
+38931,Not Placed,Not Placed
+10966,Not Placed,Not Placed
+38824,Not Placed,Not Placed
+2369,Placed,Placed
+40358,Not Placed,Not Placed
+7918,Not Placed,Not Placed
+36832,Not Placed,Not Placed
+29639,Placed,Placed
+42686,Not Placed,Not Placed
+48838,Not Placed,Not Placed
+24239,Not Placed,Not Placed
+41237,Not Placed,Not Placed
+1683,Placed,Placed
+35103,Not Placed,Not Placed
+28553,Not Placed,Not Placed
+14855,Placed,Placed
+30037,Not Placed,Not Placed
+41151,Not Placed,Not Placed
+15742,Not Placed,Not Placed
+8831,Placed,Placed
+28261,Not Placed,Not Placed
+12370,Not Placed,Not Placed
+42134,Not Placed,Not Placed
+42525,Not Placed,Not Placed
+1227,Not Placed,Not Placed
+8879,Not Placed,Not Placed
+37007,Not Placed,Not Placed
+48280,Not Placed,Not Placed
+21237,Placed,Placed
+3197,Not Placed,Not Placed
+43085,Not Placed,Not Placed
+3586,Placed,Placed
+34407,Placed,Placed
+36559,Placed,Placed
+35270,Not Placed,Not Placed
+32395,Not Placed,Not Placed
+16372,Placed,Placed
+37131,Not Placed,Not Placed
+3919,Not Placed,Not Placed
+6867,Not Placed,Not Placed
+25366,Not Placed,Not Placed
+12350,Placed,Placed
+19081,Not Placed,Not Placed
+14721,Placed,Placed
+13066,Not Placed,Not Placed
+29567,Not Placed,Not Placed
+43952,Placed,Placed
+47819,Not Placed,Not Placed
+42316,Placed,Placed
+39435,Not Placed,Not Placed
+11103,Not Placed,Not Placed
+9142,Placed,Placed
+8321,Not Placed,Not Placed
+32557,Not Placed,Not Placed
+9168,Not Placed,Not Placed
+46015,Not Placed,Not Placed
+9598,Placed,Placed
+28631,Placed,Placed
+36673,Not Placed,Not Placed
+17154,Not Placed,Not Placed
+39721,Not Placed,Not Placed
+34360,Not Placed,Not Placed
+2429,Not Placed,Not Placed
+1750,Not Placed,Not Placed
+14694,Not Placed,Not Placed
+42957,Not Placed,Not Placed
+13356,Not Placed,Not Placed
+24698,Placed,Placed
+7619,Not Placed,Not Placed
+4835,Placed,Placed
+37998,Not Placed,Not Placed
+30632,Not Placed,Not Placed
+19937,Not Placed,Not Placed
+39904,Placed,Placed
+44340,Not Placed,Not Placed
+48631,Placed,Placed
+17738,Not Placed,Not Placed
+15804,Not Placed,Not Placed
+16638,Placed,Placed
+49582,Not Placed,Not Placed
+9266,Not Placed,Not Placed
+47315,Not Placed,Not Placed
+11258,Not Placed,Not Placed
+3146,Not Placed,Not Placed
+38891,Not Placed,Not Placed
+21455,Placed,Placed
+43912,Not Placed,Not Placed
+20932,Not Placed,Not Placed
+42336,Not Placed,Not Placed
+19141,Placed,Placed
+11067,Not Placed,Not Placed
+45286,Not Placed,Not Placed
+21917,Placed,Placed
+1622,Placed,Placed
+15561,Placed,Placed
+10281,Placed,Placed
+1598,Not Placed,Not Placed
+18405,Not Placed,Not Placed
+42742,Not Placed,Not Placed
+31054,Not Placed,Not Placed
+38493,Placed,Placed
+3781,Not Placed,Not Placed
+8501,Placed,Placed
+6908,Not Placed,Not Placed
+12679,Not Placed,Not Placed
+32365,Not Placed,Not Placed
+43988,Not Placed,Not Placed
+45821,Placed,Placed
+32492,Placed,Placed
+41070,Not Placed,Not Placed
+12271,Placed,Placed
+42664,Placed,Placed
+8272,Not Placed,Not Placed
+22271,Not Placed,Not Placed
+21838,Placed,Placed
+45844,Not Placed,Not Placed
+44912,Not Placed,Not Placed
+7686,Placed,Placed
+14140,Not Placed,Not Placed
+17587,Not Placed,Not Placed
+7926,Placed,Placed
+48816,Not Placed,Not Placed
+35420,Not Placed,Not Placed
+14750,Placed,Placed
+43960,Placed,Placed
+31273,Not Placed,Not Placed
+27682,Not Placed,Not Placed
+46907,Placed,Placed
+17137,Not Placed,Not Placed
+24009,Not Placed,Not Placed
+27646,Not Placed,Not Placed
+15033,Placed,Placed
+35997,Placed,Placed
+5790,Not Placed,Not Placed
+10888,Placed,Placed
+1241,Not Placed,Not Placed
+12091,Not Placed,Not Placed
+42836,Not Placed,Not Placed
+35026,Not Placed,Not Placed
+32348,Not Placed,Not Placed
+355,Not Placed,Not Placed
+23797,Not Placed,Not Placed
+8194,Placed,Placed
+17846,Not Placed,Not Placed
+15759,Not Placed,Not Placed
+36333,Not Placed,Not Placed
+14449,Placed,Placed
+28262,Not Placed,Not Placed
+1063,Placed,Placed
+23945,Placed,Placed
+16051,Not Placed,Not Placed
+32264,Not Placed,Not Placed
+11182,Not Placed,Not Placed
+15400,Not Placed,Not Placed
+21254,Not Placed,Not Placed
+48030,Not Placed,Not Placed
+32281,Not Placed,Not Placed
+22142,Not Placed,Not Placed
+3928,Not Placed,Not Placed
+38860,Placed,Placed
+8382,Not Placed,Not Placed
+28472,Not Placed,Not Placed
+41961,Not Placed,Not Placed
+11558,Placed,Placed
+36664,Placed,Placed
+38206,Not Placed,Not Placed
+43424,Not Placed,Not Placed
+44035,Placed,Placed
+7245,Not Placed,Not Placed
+16623,Placed,Placed
+16687,Not Placed,Not Placed
+49214,Not Placed,Not Placed
+39044,Not Placed,Not Placed
+27837,Not Placed,Not Placed
+47012,Not Placed,Not Placed
+20265,Placed,Placed
+544,Not Placed,Not Placed
+28055,Placed,Placed
+39613,Not Placed,Not Placed
+43821,Not Placed,Not Placed
+19641,Placed,Placed
+43673,Not Placed,Not Placed
+22311,Placed,Placed
+22631,Not Placed,Not Placed
+20936,Not Placed,Not Placed
+49108,Placed,Placed
+25180,Not Placed,Not Placed
+24934,Placed,Placed
+42606,Not Placed,Not Placed
+29956,Not Placed,Not Placed
+2421,Not Placed,Not Placed
+17802,Placed,Placed
+48035,Not Placed,Not Placed
+28298,Not Placed,Not Placed
+49775,Not Placed,Not Placed
+9842,Placed,Placed
+25926,Placed,Placed
+29964,Not Placed,Not Placed
+43629,Not Placed,Not Placed
+19876,Not Placed,Not Placed
+28619,Not Placed,Not Placed
+4916,Placed,Placed
+3787,Not Placed,Not Placed
+9433,Not Placed,Not Placed
+807,Not Placed,Not Placed
+45898,Not Placed,Not Placed
+44607,Not Placed,Not Placed
+24742,Not Placed,Not Placed
+41162,Placed,Placed
+42238,Placed,Placed
+44696,Placed,Placed
+27208,Not Placed,Not Placed
+1806,Not Placed,Not Placed
+13994,Not Placed,Not Placed
+13042,Placed,Placed
+4945,Not Placed,Not Placed
+35359,Placed,Placed
+222,Placed,Placed
+11744,Not Placed,Not Placed
+2883,Placed,Placed
+44804,Not Placed,Not Placed
+7263,Placed,Placed
+15035,Placed,Placed
+42819,Not Placed,Not Placed
+31605,Placed,Placed
+20842,Placed,Placed
+25867,Not Placed,Not Placed
+31094,Placed,Placed
+24200,Placed,Placed
+16161,Not Placed,Not Placed
+30137,Not Placed,Not Placed
+33087,Not Placed,Not Placed
+35458,Placed,Placed
+21937,Not Placed,Not Placed
+29731,Placed,Placed
+47098,Placed,Placed
+8231,Not Placed,Not Placed
+2657,Not Placed,Not Placed
+7591,Placed,Placed
+37303,Placed,Placed
+44004,Placed,Placed
+32340,Not Placed,Not Placed
+20495,Placed,Placed
+14501,Not Placed,Not Placed
+21628,Not Placed,Not Placed
+9255,Not Placed,Not Placed
+43283,Placed,Placed
+17446,Not Placed,Not Placed
+12192,Not Placed,Not Placed
+12145,Not Placed,Not Placed
+18350,Not Placed,Not Placed
+8636,Placed,Placed
+40214,Placed,Placed
+4595,Not Placed,Not Placed
+2650,Placed,Placed
+27642,Placed,Placed
+6032,Not Placed,Not Placed
+43329,Not Placed,Not Placed
+48222,Not Placed,Not Placed
+7095,Placed,Placed
+42340,Not Placed,Not Placed
+22281,Placed,Placed
+30015,Placed,Placed
+28902,Not Placed,Not Placed
+44595,Not Placed,Not Placed
+14972,Placed,Placed
+11931,Placed,Placed
+39843,Not Placed,Not Placed
+43525,Not Placed,Not Placed
+18821,Placed,Placed
+45655,Not Placed,Not Placed
+46778,Not Placed,Not Placed
+14776,Not Placed,Not Placed
+16797,Not Placed,Not Placed
+38503,Not Placed,Not Placed
+537,Placed,Placed
+33705,Not Placed,Not Placed
+29360,Not Placed,Not Placed
+10964,Not Placed,Not Placed
+34016,Placed,Placed
+27656,Not Placed,Not Placed
+35463,Not Placed,Not Placed
+36830,Placed,Placed
+6769,Placed,Placed
+31175,Not Placed,Not Placed
+47792,Placed,Placed
+41760,Not Placed,Not Placed
+48151,Placed,Placed
+11878,Not Placed,Not Placed
+25064,Not Placed,Not Placed
+43076,Not Placed,Not Placed
+41813,Placed,Placed
+44410,Placed,Placed
+32239,Placed,Placed
+41633,Placed,Placed
+35995,Not Placed,Not Placed
+28917,Placed,Placed
+14174,Not Placed,Not Placed
+47400,Not Placed,Not Placed
+21597,Not Placed,Not Placed
+32978,Not Placed,Not Placed
+28498,Placed,Placed
+32570,Not Placed,Not Placed
+41899,Not Placed,Not Placed
+10763,Placed,Placed
+5800,Placed,Placed
+357,Not Placed,Not Placed
+15021,Placed,Placed
+5487,Not Placed,Not Placed
+13958,Not Placed,Not Placed
+17119,Not Placed,Not Placed
+43730,Not Placed,Not Placed
+4387,Not Placed,Not Placed
+16159,Not Placed,Not Placed
+27072,Not Placed,Not Placed
+21168,Not Placed,Not Placed
+44222,Not Placed,Not Placed
+5588,Not Placed,Not Placed
+21281,Placed,Placed
+38037,Not Placed,Not Placed
+7565,Placed,Placed
+14339,Placed,Placed
+529,Not Placed,Not Placed
+19900,Not Placed,Not Placed
+21878,Not Placed,Not Placed
+41823,Not Placed,Not Placed
+20924,Not Placed,Not Placed
+10878,Not Placed,Not Placed
+401,Placed,Placed
+19270,Not Placed,Not Placed
+36839,Not Placed,Not Placed
+22320,Not Placed,Not Placed
+13883,Not Placed,Not Placed
+1286,Placed,Placed
+44813,Not Placed,Not Placed
+11583,Not Placed,Not Placed
+30204,Placed,Placed
+44980,Not Placed,Not Placed
+46404,Placed,Placed
+22080,Placed,Placed
+39939,Not Placed,Not Placed
+21298,Not Placed,Not Placed
+11188,Not Placed,Not Placed
+36009,Placed,Placed
+30939,Not Placed,Not Placed
+40588,Not Placed,Not Placed
+5175,Placed,Placed
+45895,Not Placed,Not Placed
+29929,Not Placed,Not Placed
+21495,Not Placed,Not Placed
+3968,Placed,Placed
+41090,Not Placed,Not Placed
+9320,Not Placed,Not Placed
+3872,Not Placed,Not Placed
+584,Not Placed,Not Placed
+38167,Not Placed,Not Placed
+43976,Not Placed,Not Placed
+48714,Not Placed,Not Placed
+9404,Placed,Placed
+7979,Not Placed,Not Placed
+6408,Placed,Placed
+14993,Not Placed,Not Placed
+22338,Placed,Placed
+32291,Not Placed,Not Placed
+41184,Placed,Placed
+6436,Not Placed,Not Placed
+13817,Not Placed,Not Placed
+36637,Not Placed,Not Placed
+11747,Not Placed,Not Placed
+12650,Not Placed,Not Placed
+9664,Placed,Placed
+15792,Not Placed,Not Placed
+11650,Not Placed,Not Placed
+36627,Placed,Placed
+37419,Not Placed,Not Placed
+21303,Not Placed,Not Placed
+2272,Placed,Placed
+14110,Placed,Placed
+13533,Not Placed,Not Placed
+19206,Not Placed,Not Placed
+49600,Not Placed,Not Placed
+20402,Not Placed,Not Placed
+40335,Not Placed,Not Placed
+49404,Not Placed,Not Placed
+31615,Placed,Placed
+11414,Placed,Placed
+49886,Not Placed,Not Placed
+37285,Not Placed,Not Placed
+11502,Not Placed,Not Placed
+8184,Placed,Placed
+49345,Placed,Placed
+5484,Placed,Placed
+28223,Not Placed,Not Placed
+25140,Not Placed,Not Placed
+44651,Not Placed,Not Placed
+4200,Not Placed,Not Placed
+34753,Not Placed,Not Placed
+4071,Not Placed,Not Placed
+3059,Not Placed,Not Placed
+24568,Not Placed,Not Placed
+27357,Not Placed,Not Placed
+37704,Not Placed,Not Placed
+44652,Placed,Placed
+47448,Not Placed,Not Placed
+22491,Not Placed,Not Placed
+31714,Not Placed,Not Placed
+15871,Not Placed,Not Placed
+32809,Placed,Placed
+38015,Not Placed,Not Placed
+30014,Not Placed,Not Placed
+42408,Placed,Placed
+33093,Placed,Placed
+17465,Not Placed,Not Placed
+24189,Not Placed,Not Placed
+44322,Placed,Placed
+11700,Not Placed,Not Placed
+23476,Not Placed,Not Placed
+24537,Placed,Placed
+8482,Not Placed,Not Placed
+29816,Not Placed,Not Placed
+37686,Not Placed,Not Placed
+8829,Placed,Placed
+24571,Not Placed,Not Placed
+39669,Not Placed,Not Placed
+12427,Placed,Placed
+14213,Not Placed,Not Placed
+32160,Placed,Placed
+31376,Not Placed,Not Placed
+16221,Placed,Placed
+21620,Placed,Placed
+46352,Placed,Placed
+26515,Not Placed,Not Placed
+24274,Not Placed,Not Placed
+40992,Not Placed,Not Placed
+1275,Not Placed,Not Placed
+32244,Not Placed,Not Placed
+47522,Placed,Placed
+23581,Placed,Placed
+45521,Placed,Placed
+26640,Not Placed,Not Placed
+37542,Not Placed,Not Placed
+7139,Placed,Placed
+27571,Not Placed,Not Placed
+31315,Not Placed,Not Placed
+21511,Not Placed,Not Placed
+5483,Not Placed,Not Placed
+14904,Placed,Placed
+35504,Not Placed,Not Placed
+5884,Not Placed,Not Placed
+20126,Not Placed,Not Placed
+40999,Not Placed,Not Placed
+4856,Not Placed,Not Placed
+40220,Not Placed,Not Placed
+21310,Not Placed,Not Placed
+26097,Not Placed,Not Placed
+34276,Placed,Placed
+20038,Not Placed,Not Placed
+248,Not Placed,Not Placed
+12899,Not Placed,Not Placed
+49589,Placed,Placed
+5320,Placed,Placed
+18357,Placed,Placed
+28546,Not Placed,Not Placed
+5781,Not Placed,Not Placed
+811,Placed,Placed
+13999,Placed,Placed
+19057,Not Placed,Not Placed
+30906,Not Placed,Not Placed
+14709,Not Placed,Not Placed
+22769,Placed,Placed
+33480,Not Placed,Not Placed
+22359,Placed,Placed
+19751,Placed,Placed
+16287,Placed,Placed
+17363,Not Placed,Not Placed
+36981,Placed,Placed
+19492,Placed,Placed
+18729,Placed,Placed
+31446,Not Placed,Not Placed
+7831,Not Placed,Not Placed
+46574,Not Placed,Not Placed
+20851,Not Placed,Not Placed
+18007,Not Placed,Not Placed
+5747,Not Placed,Not Placed
+34119,Not Placed,Not Placed
+1771,Placed,Placed
+6258,Placed,Placed
+32009,Not Placed,Not Placed
+46997,Not Placed,Not Placed
+84,Not Placed,Not Placed
+45274,Placed,Placed
+32779,Placed,Placed
+29931,Not Placed,Not Placed
+2827,Not Placed,Not Placed
+7478,Not Placed,Not Placed
+37699,Not Placed,Not Placed
+36439,Placed,Placed
+27590,Not Placed,Not Placed
+35623,Placed,Placed
+35394,Not Placed,Not Placed
+27024,Not Placed,Not Placed
+664,Not Placed,Not Placed
+21994,Placed,Placed
+1167,Not Placed,Not Placed
+9522,Not Placed,Not Placed
+48592,Not Placed,Not Placed
+20124,Not Placed,Not Placed
+3903,Not Placed,Not Placed
+48743,Not Placed,Not Placed
+7812,Placed,Placed
+40432,Not Placed,Not Placed
+23613,Not Placed,Not Placed
+49093,Not Placed,Not Placed
+28788,Placed,Placed
+20418,Not Placed,Not Placed
+8765,Placed,Placed
+41923,Placed,Placed
+32400,Not Placed,Not Placed
+40081,Not Placed,Not Placed
+48433,Placed,Placed
+28384,Placed,Placed
+22333,Not Placed,Not Placed
+1512,Placed,Placed
+6980,Placed,Placed
+35118,Not Placed,Not Placed
+11930,Not Placed,Not Placed
+38873,Not Placed,Not Placed
+37006,Placed,Placed
+21049,Not Placed,Not Placed
+16453,Not Placed,Not Placed
+27758,Not Placed,Not Placed
+21402,Placed,Placed
+10208,Not Placed,Not Placed
+37297,Not Placed,Not Placed
+14789,Not Placed,Not Placed
+44843,Not Placed,Not Placed
+37834,Placed,Placed
+26732,Not Placed,Not Placed
+16882,Placed,Placed
+41210,Not Placed,Not Placed
+45011,Not Placed,Not Placed
+37707,Not Placed,Not Placed
+35264,Not Placed,Not Placed
+48083,Not Placed,Not Placed
+25649,Not Placed,Not Placed
+28897,Not Placed,Not Placed
+34012,Placed,Placed
+33576,Placed,Placed
+8043,Placed,Placed
+8548,Placed,Placed
+47244,Placed,Placed
+37016,Not Placed,Not Placed
+16183,Placed,Placed
+23200,Not Placed,Not Placed
+8792,Placed,Placed
+42676,Not Placed,Not Placed
+3653,Not Placed,Not Placed
+176,Placed,Placed
+37085,Not Placed,Not Placed
+12640,Not Placed,Not Placed
+16771,Not Placed,Not Placed
+25565,Not Placed,Not Placed
+2830,Placed,Placed
+32165,Not Placed,Not Placed
+1242,Not Placed,Not Placed
+4411,Not Placed,Not Placed
+4253,Not Placed,Not Placed
+43450,Not Placed,Not Placed
+22065,Not Placed,Not Placed
+26174,Not Placed,Not Placed
+9110,Not Placed,Not Placed
+14895,Not Placed,Not Placed
+30924,Not Placed,Not Placed
+3732,Not Placed,Not Placed
+10483,Not Placed,Not Placed
+22093,Not Placed,Not Placed
+27032,Placed,Placed
+28115,Not Placed,Not Placed
+45183,Placed,Placed
+29433,Placed,Placed
+9474,Placed,Placed
+48333,Not Placed,Not Placed
+20734,Not Placed,Not Placed
+32548,Placed,Placed
+21106,Not Placed,Not Placed
+36016,Not Placed,Not Placed
+23591,Placed,Placed
+5064,Not Placed,Not Placed
+43023,Placed,Placed
+39000,Not Placed,Not Placed
+37270,Placed,Placed
+34823,Not Placed,Not Placed
+23728,Not Placed,Not Placed
+19740,Placed,Placed
+32649,Not Placed,Not Placed
+14467,Not Placed,Not Placed
+33189,Not Placed,Not Placed
+37251,Not Placed,Not Placed
+23916,Not Placed,Not Placed
+17473,Placed,Placed
+29394,Not Placed,Not Placed
+20970,Placed,Placed
+25644,Not Placed,Not Placed
+10683,Not Placed,Not Placed
+46438,Placed,Placed
+27314,Placed,Placed
+31301,Not Placed,Not Placed
+10439,Placed,Placed
+26876,Placed,Placed
+44621,Not Placed,Not Placed
+26639,Not Placed,Not Placed
+14820,Not Placed,Not Placed
+43314,Not Placed,Not Placed
+47225,Placed,Placed
+42135,Placed,Placed
+48771,Placed,Placed
+23995,Not Placed,Not Placed
+7512,Not Placed,Not Placed
+20647,Not Placed,Not Placed
+24794,Placed,Placed
+43690,Placed,Placed
+46005,Not Placed,Not Placed
+24963,Placed,Placed
+3977,Placed,Placed
+14659,Not Placed,Not Placed
+15328,Not Placed,Not Placed
+35508,Placed,Placed
+30071,Placed,Placed
+39720,Not Placed,Not Placed
+9026,Not Placed,Not Placed
+8216,Not Placed,Not Placed
+41417,Not Placed,Not Placed
+21829,Not Placed,Not Placed
+38953,Not Placed,Not Placed
+13914,Placed,Placed
+11293,Not Placed,Not Placed
+29048,Not Placed,Not Placed
+4445,Not Placed,Not Placed
+49947,Not Placed,Not Placed
+11421,Placed,Placed
+47566,Placed,Placed
+12424,Not Placed,Not Placed
+8157,Not Placed,Not Placed
+30360,Not Placed,Not Placed
+24139,Not Placed,Not Placed
+32014,Not Placed,Not Placed
+41005,Not Placed,Not Placed
+39566,Not Placed,Not Placed
+21363,Not Placed,Not Placed
+38760,Placed,Placed
+40072,Not Placed,Not Placed
+40545,Not Placed,Not Placed
+27708,Placed,Placed
+5395,Placed,Placed
+25134,Not Placed,Not Placed
+4019,Placed,Placed
+7464,Not Placed,Not Placed
+23670,Placed,Placed
+16448,Placed,Placed
+24464,Not Placed,Not Placed
+46979,Not Placed,Not Placed
+22325,Placed,Placed
+2687,Not Placed,Not Placed
+8183,Not Placed,Not Placed
+16600,Placed,Placed
+41830,Not Placed,Not Placed
+7046,Not Placed,Not Placed
+29744,Not Placed,Not Placed
+25610,Not Placed,Not Placed
+19348,Placed,Placed
+1421,Placed,Placed
+38113,Not Placed,Not Placed
+41674,Not Placed,Not Placed
+8633,Placed,Placed
+39823,Placed,Placed
+7649,Not Placed,Not Placed
+29585,Not Placed,Not Placed
+29232,Placed,Placed
+35728,Placed,Placed
+22906,Not Placed,Not Placed
+19278,Not Placed,Not Placed
+39136,Placed,Placed
+49935,Placed,Placed
+38162,Not Placed,Not Placed
+35681,Not Placed,Not Placed
+31497,Not Placed,Not Placed
+5551,Not Placed,Not Placed
+30665,Not Placed,Not Placed
+4472,Placed,Placed
+19835,Not Placed,Not Placed
+15406,Not Placed,Not Placed
+21828,Placed,Placed
+27260,Placed,Placed
+22654,Not Placed,Not Placed
+32843,Placed,Placed
+29195,Placed,Placed
+8186,Not Placed,Not Placed
+11117,Not Placed,Not Placed
+10832,Not Placed,Not Placed
+46726,Placed,Placed
+8286,Not Placed,Not Placed
+40077,Not Placed,Not Placed
+11644,Not Placed,Not Placed
+33618,Not Placed,Not Placed
+35455,Placed,Placed
+36507,Not Placed,Not Placed
+2161,Placed,Placed
+39256,Placed,Placed
+4651,Placed,Placed
+38678,Not Placed,Not Placed
+26775,Not Placed,Not Placed
+47501,Placed,Placed
+45654,Not Placed,Not Placed
+730,Not Placed,Not Placed
+27842,Not Placed,Not Placed
+20351,Placed,Placed
+49933,Not Placed,Not Placed
+9148,Not Placed,Not Placed
+18299,Placed,Placed
+28531,Placed,Placed
+27990,Not Placed,Not Placed
+29103,Not Placed,Not Placed
+3850,Not Placed,Not Placed
+31369,Placed,Placed
+20755,Not Placed,Not Placed
+36209,Not Placed,Not Placed
+17942,Not Placed,Not Placed
+917,Not Placed,Not Placed
+13129,Placed,Placed
+18143,Not Placed,Not Placed
+10847,Not Placed,Not Placed
+40820,Not Placed,Not Placed
+4533,Not Placed,Not Placed
+40058,Not Placed,Not Placed
+23092,Placed,Placed
+33578,Not Placed,Not Placed
+42677,Placed,Placed
+5163,Placed,Placed
+41183,Placed,Placed
+45426,Not Placed,Not Placed
+27416,Not Placed,Not Placed
+35809,Not Placed,Not Placed
+25751,Not Placed,Not Placed
+25717,Not Placed,Not Placed
+27760,Placed,Placed
+5724,Not Placed,Not Placed
+12460,Placed,Placed
+44114,Not Placed,Not Placed
+14388,Placed,Placed
+40950,Not Placed,Not Placed
+34705,Not Placed,Not Placed
+19678,Not Placed,Not Placed
+38989,Not Placed,Not Placed
+45441,Not Placed,Not Placed
+44185,Placed,Placed
+2482,Not Placed,Not Placed
+35505,Placed,Placed
+29938,Not Placed,Not Placed
+7815,Not Placed,Not Placed
+17929,Not Placed,Not Placed
+23936,Not Placed,Not Placed
+23152,Placed,Placed
+8715,Not Placed,Not Placed
+49892,Placed,Placed
+9628,Not Placed,Not Placed
+42503,Placed,Placed
+42227,Not Placed,Not Placed
+32432,Placed,Placed
+20270,Not Placed,Not Placed
+43096,Not Placed,Not Placed
+37138,Placed,Placed
+6870,Placed,Placed
+22253,Not Placed,Not Placed
+34602,Not Placed,Not Placed
+64,Placed,Placed
+39932,Placed,Placed
+8716,Placed,Placed
+30556,Not Placed,Not Placed
+5402,Placed,Placed
+23574,Not Placed,Not Placed
+32786,Not Placed,Not Placed
+25811,Not Placed,Not Placed
+47346,Placed,Placed
+15962,Placed,Placed
+41196,Placed,Placed
+28900,Placed,Placed
+12132,Placed,Placed
+5762,Not Placed,Not Placed
+48477,Not Placed,Not Placed
+7224,Not Placed,Not Placed
+48411,Placed,Placed
+5732,Not Placed,Not Placed
+37932,Not Placed,Not Placed
+21532,Not Placed,Not Placed
+31074,Not Placed,Not Placed
+1054,Not Placed,Not Placed
+7428,Placed,Placed
+10776,Not Placed,Not Placed
+47372,Not Placed,Not Placed
+33828,Not Placed,Not Placed
+37055,Not Placed,Not Placed
+38487,Placed,Placed
+16230,Not Placed,Not Placed
+7751,Not Placed,Not Placed
+41149,Not Placed,Not Placed
+49113,Placed,Placed
+49920,Placed,Placed
+45479,Not Placed,Not Placed
+4091,Not Placed,Not Placed
+27351,Not Placed,Not Placed
+49661,Placed,Placed
+18279,Not Placed,Not Placed
+47622,Not Placed,Not Placed
+9495,Not Placed,Not Placed
+7472,Not Placed,Not Placed
+1901,Not Placed,Not Placed
+43920,Not Placed,Not Placed
+13149,Not Placed,Not Placed
+20650,Not Placed,Not Placed
+28712,Placed,Placed
+15904,Not Placed,Not Placed
+47425,Placed,Placed
+43202,Not Placed,Not Placed
+37077,Not Placed,Not Placed
+11687,Not Placed,Not Placed
+29295,Placed,Placed
+43611,Placed,Placed
+21649,Not Placed,Not Placed
+14000,Placed,Placed
+23579,Not Placed,Not Placed
+49334,Placed,Placed
+26488,Placed,Placed
+16397,Not Placed,Not Placed
+22319,Not Placed,Not Placed
+30971,Not Placed,Not Placed
+48465,Not Placed,Not Placed
+15473,Placed,Placed
+24047,Not Placed,Not Placed
+15166,Not Placed,Not Placed
+26857,Placed,Placed
+30938,Placed,Placed
+45185,Placed,Placed
+40160,Not Placed,Not Placed
+2931,Not Placed,Not Placed
+45906,Not Placed,Not Placed
+15984,Placed,Placed
+30286,Not Placed,Not Placed
+23926,Placed,Placed
+28134,Placed,Placed
+23518,Not Placed,Not Placed
+3958,Placed,Placed
+16258,Placed,Placed
+29812,Placed,Placed
+46791,Placed,Placed
+27550,Not Placed,Not Placed
+6231,Not Placed,Not Placed
+23622,Not Placed,Not Placed
+44354,Not Placed,Not Placed
+33538,Not Placed,Not Placed
+25019,Not Placed,Not Placed
+35437,Not Placed,Not Placed
+27923,Not Placed,Not Placed
+12669,Placed,Placed
+24630,Not Placed,Not Placed
+39564,Not Placed,Not Placed
+24878,Placed,Placed
+23799,Placed,Placed
+27485,Placed,Placed
+34071,Not Placed,Not Placed
+30528,Placed,Placed
+8080,Placed,Placed
+42893,Not Placed,Not Placed
+11422,Placed,Placed
+30496,Not Placed,Not Placed
+26124,Not Placed,Not Placed
+47618,Not Placed,Not Placed
+40652,Not Placed,Not Placed
+23416,Placed,Placed
+10330,Not Placed,Not Placed
+45875,Placed,Placed
+38656,Placed,Placed
+37763,Not Placed,Not Placed
+15360,Not Placed,Not Placed
+8171,Placed,Placed
+18673,Placed,Placed
+29774,Placed,Placed
+21666,Not Placed,Not Placed
+46125,Not Placed,Not Placed
+27380,Placed,Placed
+18046,Not Placed,Not Placed
+20548,Placed,Placed
+2358,Not Placed,Not Placed
+39903,Placed,Placed
+24197,Placed,Placed
+12526,Not Placed,Not Placed
+42978,Placed,Placed
+26596,Placed,Placed
+35139,Not Placed,Not Placed
+26003,Not Placed,Not Placed
+43332,Not Placed,Not Placed
+34053,Placed,Placed
+10480,Not Placed,Not Placed
+34440,Not Placed,Not Placed
+12943,Not Placed,Not Placed
+13937,Not Placed,Not Placed
+38246,Placed,Placed
+21079,Not Placed,Not Placed
+13861,Placed,Placed
+37321,Not Placed,Not Placed
+44734,Not Placed,Not Placed
+21548,Placed,Placed
+44079,Placed,Placed
+726,Not Placed,Not Placed
+8791,Placed,Placed
+33886,Not Placed,Not Placed
+46161,Not Placed,Not Placed
+33605,Placed,Placed
+27838,Not Placed,Not Placed
+48803,Not Placed,Not Placed
+15781,Not Placed,Not Placed
+3375,Not Placed,Not Placed
+43234,Not Placed,Not Placed
+5542,Placed,Placed
+38186,Placed,Placed
+48953,Not Placed,Not Placed
+3966,Not Placed,Not Placed
+37051,Not Placed,Not Placed
+12984,Not Placed,Not Placed
+25243,Placed,Placed
+46850,Not Placed,Not Placed
+41429,Placed,Placed
+28652,Not Placed,Not Placed
+30658,Not Placed,Not Placed
+35782,Placed,Placed
+41201,Not Placed,Not Placed
+47793,Not Placed,Not Placed
+15832,Not Placed,Not Placed
+9500,Not Placed,Not Placed
+39818,Placed,Placed
+25763,Placed,Placed
+28247,Placed,Placed
+30358,Not Placed,Not Placed
+33368,Not Placed,Not Placed
+20805,Not Placed,Not Placed
+26631,Not Placed,Not Placed
+22662,Placed,Placed
+3363,Placed,Placed
+6459,Not Placed,Not Placed
+26040,Not Placed,Not Placed
+17955,Not Placed,Not Placed
+24024,Not Placed,Not Placed
+16754,Not Placed,Not Placed
+28089,Placed,Placed
+44017,Not Placed,Not Placed
+47213,Not Placed,Not Placed
+38520,Placed,Placed
+14915,Not Placed,Not Placed
+19031,Not Placed,Not Placed
+15096,Not Placed,Not Placed
+15050,Not Placed,Not Placed
+34278,Not Placed,Not Placed
+22749,Not Placed,Not Placed
+4827,Not Placed,Not Placed
+7172,Not Placed,Not Placed
+26262,Placed,Placed
+32317,Not Placed,Not Placed
+28885,Placed,Placed
+41366,Not Placed,Not Placed
+17763,Not Placed,Not Placed
+11148,Not Placed,Not Placed
+44701,Not Placed,Not Placed
+6433,Placed,Placed
+8160,Not Placed,Not Placed
+4698,Not Placed,Not Placed
+26118,Placed,Placed
+3380,Not Placed,Not Placed
+33071,Placed,Placed
+27321,Not Placed,Not Placed
+18887,Not Placed,Not Placed
+13084,Not Placed,Not Placed
+46772,Not Placed,Not Placed
+38055,Not Placed,Not Placed
+48706,Not Placed,Not Placed
+39491,Not Placed,Not Placed
+23180,Not Placed,Not Placed
+34931,Not Placed,Not Placed
+14729,Placed,Placed
+19600,Placed,Placed
+9849,Placed,Placed
+16617,Placed,Placed
+16809,Not Placed,Not Placed
+13444,Not Placed,Not Placed
+48875,Not Placed,Not Placed
+7364,Not Placed,Not Placed
+22977,Placed,Placed
+16601,Not Placed,Not Placed
+36726,Placed,Placed
+34428,Placed,Placed
+20092,Not Placed,Not Placed
+28412,Placed,Placed
+18828,Placed,Placed
+34155,Placed,Placed
+28589,Not Placed,Not Placed
+6487,Placed,Placed
+11435,Not Placed,Not Placed
+37767,Not Placed,Not Placed
+10906,Not Placed,Not Placed
+33835,Not Placed,Not Placed
+42212,Not Placed,Not Placed
+43476,Placed,Placed
+20920,Placed,Placed
+14131,Not Placed,Not Placed
+42692,Not Placed,Not Placed
+44581,Not Placed,Not Placed
+31488,Not Placed,Not Placed
+34643,Not Placed,Not Placed
+6857,Not Placed,Not Placed
+27363,Not Placed,Not Placed
+47165,Placed,Placed
+40921,Not Placed,Not Placed
+33974,Not Placed,Not Placed
+17599,Placed,Placed
+36659,Not Placed,Not Placed
+48621,Placed,Placed
+18417,Not Placed,Not Placed
+3494,Placed,Placed
+45727,Not Placed,Not Placed
+40299,Not Placed,Not Placed
+36024,Not Placed,Not Placed
+41460,Not Placed,Not Placed
+15816,Not Placed,Not Placed
+47168,Not Placed,Not Placed
+30530,Not Placed,Not Placed
+8970,Not Placed,Not Placed
+25746,Placed,Placed
+36073,Not Placed,Not Placed
+17814,Not Placed,Not Placed
+49904,Not Placed,Not Placed
+6739,Not Placed,Not Placed
+19687,Placed,Placed
+31211,Not Placed,Not Placed
+1250,Not Placed,Not Placed
+13691,Not Placed,Not Placed
+9179,Not Placed,Not Placed
+13846,Not Placed,Not Placed
+36990,Placed,Placed
+20013,Not Placed,Not Placed
+33806,Not Placed,Not Placed
+38036,Not Placed,Not Placed
+45880,Not Placed,Not Placed
+38425,Placed,Placed
+36132,Placed,Placed
+47694,Not Placed,Not Placed
+35613,Placed,Placed
+46137,Placed,Placed
+2788,Not Placed,Not Placed
+2851,Not Placed,Not Placed
+6014,Not Placed,Not Placed
+10543,Not Placed,Not Placed
+6793,Placed,Placed
+21735,Placed,Placed
+43077,Not Placed,Not Placed
+47876,Placed,Placed
+21932,Not Placed,Not Placed
+3079,Not Placed,Not Placed
+25250,Placed,Placed
+42972,Placed,Placed
+10154,Placed,Placed
+5667,Placed,Placed
+8514,Placed,Placed
+35553,Not Placed,Not Placed
+302,Placed,Placed
+44981,Not Placed,Not Placed
+38344,Placed,Placed
+1724,Placed,Placed
+38779,Not Placed,Not Placed
+5997,Not Placed,Not Placed
+430,Placed,Placed
+24890,Placed,Placed
+27108,Not Placed,Not Placed
+34270,Not Placed,Not Placed
+12401,Not Placed,Not Placed
+1524,Placed,Placed
+31047,Placed,Placed
+32513,Placed,Placed
+17459,Placed,Placed
+10666,Not Placed,Not Placed
+47270,Placed,Placed
+13096,Not Placed,Not Placed
+7502,Placed,Placed
+41762,Not Placed,Not Placed
+2501,Not Placed,Not Placed
+304,Placed,Placed
+39033,Not Placed,Not Placed
+37956,Not Placed,Not Placed
+27176,Not Placed,Not Placed
+44870,Not Placed,Not Placed
+43058,Placed,Placed
+9454,Placed,Placed
+240,Placed,Placed
+43154,Placed,Placed
+14012,Placed,Placed
+12425,Not Placed,Not Placed
+10045,Not Placed,Not Placed
+25732,Not Placed,Not Placed
+14794,Not Placed,Not Placed
+48254,Placed,Placed
+4121,Not Placed,Not Placed
+21955,Not Placed,Not Placed
+46235,Not Placed,Not Placed
+34444,Not Placed,Not Placed
+47535,Not Placed,Not Placed
+38185,Placed,Placed
+34981,Not Placed,Not Placed
+19609,Placed,Placed
+17437,Not Placed,Not Placed
+49963,Not Placed,Not Placed
+40347,Not Placed,Not Placed
+33869,Not Placed,Not Placed
+39963,Not Placed,Not Placed
+41387,Not Placed,Not Placed
+8246,Not Placed,Not Placed
+3516,Not Placed,Not Placed
+276,Placed,Placed
+44474,Not Placed,Not Placed
+20439,Not Placed,Not Placed
+32403,Not Placed,Not Placed
+38244,Not Placed,Not Placed
+48613,Placed,Placed
+8711,Placed,Placed
+43380,Not Placed,Not Placed
+19226,Not Placed,Not Placed
+21331,Placed,Placed
+7214,Not Placed,Not Placed
+27136,Not Placed,Not Placed
+11623,Placed,Placed
+16456,Not Placed,Not Placed
+28763,Not Placed,Not Placed
+19716,Not Placed,Not Placed
+36317,Not Placed,Not Placed
+45184,Placed,Placed
+25321,Not Placed,Not Placed
+42077,Not Placed,Not Placed
+44717,Not Placed,Not Placed
+5746,Placed,Placed
+7520,Not Placed,Not Placed
+12770,Not Placed,Not Placed
+38572,Not Placed,Not Placed
+47773,Placed,Placed
+35002,Not Placed,Not Placed
+13160,Not Placed,Not Placed
+12443,Not Placed,Not Placed
+12083,Placed,Placed
+14346,Placed,Placed
+37482,Placed,Placed
+36908,Not Placed,Not Placed
+2504,Placed,Placed
+11235,Not Placed,Not Placed
+39668,Placed,Placed
+2001,Not Placed,Not Placed
+6710,Placed,Placed
+10981,Placed,Placed
+11722,Not Placed,Not Placed
+46373,Not Placed,Not Placed
+26485,Not Placed,Not Placed
+26079,Placed,Placed
+21221,Not Placed,Not Placed
+17216,Not Placed,Not Placed
+49480,Not Placed,Not Placed
+37762,Placed,Placed
+18820,Not Placed,Not Placed
+16118,Not Placed,Not Placed
+2515,Not Placed,Not Placed
+10970,Not Placed,Not Placed
+21164,Placed,Placed
+47387,Not Placed,Not Placed
+39330,Not Placed,Not Placed
+30114,Not Placed,Not Placed
+4272,Placed,Placed
+303,Not Placed,Not Placed
+16990,Not Placed,Not Placed
+10800,Not Placed,Not Placed
+8214,Placed,Placed
+17674,Not Placed,Not Placed
+29732,Placed,Placed
+4210,Placed,Placed
+3292,Not Placed,Not Placed
+29792,Not Placed,Not Placed
+17189,Placed,Placed
+27713,Not Placed,Not Placed
+7151,Placed,Placed
+14959,Placed,Placed
+2461,Not Placed,Not Placed
+49835,Not Placed,Not Placed
+25394,Not Placed,Not Placed
+34540,Not Placed,Not Placed
+22843,Placed,Placed
+34350,Not Placed,Not Placed
+43273,Not Placed,Not Placed
+37359,Placed,Placed
+33069,Placed,Placed
+1679,Placed,Placed
+35578,Placed,Placed
+35537,Not Placed,Not Placed
+1673,Not Placed,Not Placed
+36002,Placed,Placed
+42043,Not Placed,Not Placed
+14139,Not Placed,Not Placed
+45574,Placed,Placed
+39690,Not Placed,Not Placed
+35137,Placed,Placed
+11063,Placed,Placed
+30750,Not Placed,Not Placed
+14274,Placed,Placed
+24231,Not Placed,Not Placed
+33723,Not Placed,Not Placed
+7380,Not Placed,Not Placed
+43572,Placed,Placed
+26071,Not Placed,Not Placed
+28232,Not Placed,Not Placed
+27445,Not Placed,Not Placed
+30960,Placed,Placed
+38416,Placed,Placed
+6954,Not Placed,Not Placed
+10335,Placed,Placed
+36926,Placed,Placed
+8662,Not Placed,Not Placed
+36010,Placed,Placed
+35032,Not Placed,Not Placed
+40658,Not Placed,Not Placed
+45287,Not Placed,Not Placed
+3434,Placed,Placed
+13154,Placed,Placed
+49016,Placed,Placed
+4565,Not Placed,Not Placed
+223,Not Placed,Not Placed
+9909,Not Placed,Not Placed
+10459,Placed,Placed
+13282,Placed,Placed
+4981,Not Placed,Not Placed
+25623,Not Placed,Not Placed
+31554,Not Placed,Not Placed
+34972,Not Placed,Not Placed
+17984,Not Placed,Not Placed
+47117,Not Placed,Not Placed
+6850,Not Placed,Not Placed
+4727,Not Placed,Not Placed
+41285,Placed,Placed
+36935,Placed,Placed
+44462,Not Placed,Not Placed
+2685,Not Placed,Not Placed
+36962,Not Placed,Not Placed
+9353,Not Placed,Not Placed
+33520,Not Placed,Not Placed
+7166,Placed,Placed
+5887,Placed,Placed
+30078,Placed,Placed
+45555,Not Placed,Not Placed
+4542,Not Placed,Not Placed
+15820,Not Placed,Not Placed
+9257,Not Placed,Not Placed
+46613,Not Placed,Not Placed
+12659,Not Placed,Not Placed
+16792,Placed,Placed
+22283,Not Placed,Not Placed
+24072,Placed,Placed
+39171,Not Placed,Not Placed
+9067,Placed,Placed
+40905,Not Placed,Not Placed
+23673,Not Placed,Not Placed
+38885,Not Placed,Not Placed
+7425,Not Placed,Not Placed
+955,Not Placed,Not Placed
+27779,Not Placed,Not Placed
+11361,Not Placed,Not Placed
+38327,Not Placed,Not Placed
+32868,Not Placed,Not Placed
+29571,Placed,Placed
+45717,Not Placed,Not Placed
+9779,Not Placed,Not Placed
+17778,Not Placed,Not Placed
+37644,Not Placed,Not Placed
+17936,Not Placed,Not Placed
+3023,Placed,Placed
+2762,Not Placed,Not Placed
+28568,Not Placed,Not Placed
+35114,Not Placed,Not Placed
+27831,Not Placed,Not Placed
+43137,Not Placed,Not Placed
+12681,Placed,Placed
+15287,Not Placed,Not Placed
+44833,Not Placed,Not Placed
+34929,Not Placed,Not Placed
+1728,Not Placed,Not Placed
+14966,Placed,Placed
+3182,Not Placed,Not Placed
+27807,Not Placed,Not Placed
+42167,Not Placed,Not Placed
+42116,Not Placed,Not Placed
+43598,Not Placed,Not Placed
+14999,Placed,Placed
+26702,Placed,Placed
+17081,Placed,Placed
+19029,Not Placed,Not Placed
+19658,Placed,Placed
+9334,Not Placed,Not Placed
+18434,Placed,Placed
+46411,Placed,Placed
+30742,Not Placed,Not Placed
+41857,Not Placed,Not Placed
+9132,Placed,Placed
+2275,Placed,Placed
+47737,Placed,Placed
+33788,Not Placed,Not Placed
+21267,Not Placed,Not Placed
+45815,Not Placed,Not Placed
+47798,Placed,Placed
+26472,Placed,Placed
+39666,Not Placed,Not Placed
+13525,Placed,Placed
+10451,Placed,Placed
+18298,Not Placed,Not Placed
+28680,Not Placed,Not Placed
+39412,Not Placed,Not Placed
+21376,Not Placed,Not Placed
+40218,Not Placed,Not Placed
+16379,Placed,Placed
+958,Not Placed,Not Placed
+26736,Not Placed,Not Placed
+46820,Placed,Placed
+47624,Placed,Placed
+2489,Placed,Placed
+12583,Not Placed,Not Placed
+12129,Not Placed,Not Placed
+37897,Not Placed,Not Placed
+7456,Placed,Placed
+3719,Not Placed,Not Placed
+42725,Not Placed,Not Placed
+10162,Not Placed,Not Placed
+11720,Placed,Placed
+40486,Placed,Placed
+33216,Placed,Placed
+32119,Placed,Placed
+12894,Not Placed,Not Placed
+35736,Not Placed,Not Placed
+1406,Not Placed,Not Placed
+46558,Not Placed,Not Placed
+31103,Not Placed,Not Placed
+45223,Not Placed,Not Placed
+16502,Placed,Placed
+3427,Placed,Placed
+3253,Not Placed,Not Placed
+34469,Placed,Placed
+12815,Not Placed,Not Placed
+31120,Not Placed,Not Placed
+37155,Not Placed,Not Placed
+45059,Not Placed,Not Placed
+44954,Placed,Placed
+13562,Placed,Placed
+24832,Placed,Placed
+47161,Placed,Placed
+30890,Placed,Placed
+46141,Not Placed,Not Placed
+9578,Not Placed,Not Placed
+15557,Not Placed,Not Placed
+26897,Placed,Placed
+7218,Not Placed,Not Placed
+44405,Placed,Placed
+26369,Not Placed,Not Placed
+14132,Not Placed,Not Placed
+25622,Not Placed,Not Placed
+2514,Not Placed,Not Placed
+41461,Not Placed,Not Placed
+36811,Not Placed,Not Placed
+19951,Not Placed,Not Placed
+37269,Not Placed,Not Placed
+33318,Not Placed,Not Placed
+34940,Placed,Placed
+16853,Not Placed,Not Placed
+49430,Not Placed,Not Placed
+24266,Not Placed,Not Placed
+43276,Not Placed,Not Placed
+15730,Not Placed,Not Placed
+35349,Placed,Placed
+3806,Not Placed,Not Placed
+30680,Placed,Placed
+31306,Not Placed,Not Placed
+24342,Placed,Placed
+35471,Placed,Placed
+33227,Not Placed,Not Placed
+7137,Placed,Placed
+29977,Not Placed,Not Placed
+28224,Not Placed,Not Placed
+13323,Not Placed,Not Placed
+32723,Not Placed,Not Placed
+43652,Not Placed,Not Placed
+10704,Placed,Placed
+39960,Placed,Placed
+19823,Not Placed,Not Placed
+34148,Placed,Placed
+47463,Not Placed,Not Placed
+9821,Placed,Placed
+37387,Not Placed,Not Placed
+7133,Placed,Placed
+25619,Placed,Placed
+26718,Placed,Placed
+43029,Placed,Placed
+121,Not Placed,Not Placed
+35018,Placed,Placed
+16714,Not Placed,Not Placed
+22832,Placed,Placed
+24992,Not Placed,Not Placed
+10179,Not Placed,Not Placed
+26403,Placed,Placed
+23635,Not Placed,Not Placed
+27147,Not Placed,Not Placed
+17609,Not Placed,Not Placed
+28096,Not Placed,Not Placed
+42992,Placed,Placed
+23038,Not Placed,Not Placed
+22870,Placed,Placed
+13649,Not Placed,Not Placed
+37514,Not Placed,Not Placed
+4713,Placed,Placed
+28890,Not Placed,Not Placed
+13978,Not Placed,Not Placed
+6155,Not Placed,Not Placed
+11485,Placed,Placed
+7844,Placed,Placed
+32855,Not Placed,Not Placed
+17729,Not Placed,Not Placed
+19194,Not Placed,Not Placed
+956,Placed,Placed
+40760,Placed,Placed
+48845,Not Placed,Not Placed
+39473,Placed,Placed
+40844,Not Placed,Not Placed
+9931,Placed,Placed
+5677,Not Placed,Not Placed
+43914,Placed,Placed
+12482,Not Placed,Not Placed
+36816,Not Placed,Not Placed
+31860,Placed,Placed
+4352,Not Placed,Not Placed
+45603,Not Placed,Not Placed
+44101,Not Placed,Not Placed
+45697,Not Placed,Not Placed
+20322,Not Placed,Not Placed
+14859,Placed,Placed
+32154,Placed,Placed
+10428,Not Placed,Not Placed
+29197,Not Placed,Not Placed
+33271,Not Placed,Not Placed
+46384,Placed,Placed
+36402,Not Placed,Not Placed
+4528,Not Placed,Not Placed
+1448,Not Placed,Not Placed
+8958,Not Placed,Not Placed
+46720,Placed,Placed
+25208,Placed,Placed
+41579,Not Placed,Not Placed
+33844,Placed,Placed
+49950,Not Placed,Not Placed
+21177,Not Placed,Not Placed
+40670,Not Placed,Not Placed
+47169,Not Placed,Not Placed
+35874,Not Placed,Not Placed
+21596,Not Placed,Not Placed
+49683,Not Placed,Not Placed
+45421,Not Placed,Not Placed
+18137,Placed,Placed
+34408,Placed,Placed
+45358,Placed,Placed
+38272,Placed,Placed
+11888,Not Placed,Not Placed
+38259,Not Placed,Not Placed
+235,Not Placed,Not Placed
+26841,Not Placed,Not Placed
+40323,Placed,Placed
+8152,Not Placed,Not Placed
+27541,Placed,Placed
+43421,Not Placed,Not Placed
+9482,Placed,Placed
+14652,Not Placed,Not Placed
+45093,Not Placed,Not Placed
+15837,Placed,Placed
+11538,Not Placed,Not Placed
+26208,Not Placed,Not Placed
+11245,Placed,Placed
+33715,Placed,Placed
+47984,Placed,Placed
+41849,Not Placed,Not Placed
+3665,Not Placed,Not Placed
+43059,Placed,Placed
+902,Not Placed,Not Placed
+46503,Not Placed,Not Placed
+28923,Not Placed,Not Placed
+7548,Not Placed,Not Placed
+43751,Placed,Placed
+10506,Placed,Placed
+8725,Not Placed,Not Placed
+26136,Not Placed,Not Placed
+20481,Not Placed,Not Placed
+39642,Not Placed,Not Placed
+35899,Not Placed,Not Placed
+6859,Not Placed,Not Placed
+29625,Placed,Placed
+44973,Not Placed,Not Placed
+27727,Not Placed,Not Placed
+30866,Not Placed,Not Placed
+40865,Not Placed,Not Placed
+23840,Not Placed,Not Placed
+5271,Placed,Placed
+25101,Placed,Placed
+13888,Placed,Placed
+43444,Not Placed,Not Placed
+8308,Not Placed,Not Placed
+27318,Not Placed,Not Placed
+32615,Not Placed,Not Placed
+48792,Not Placed,Not Placed
+25892,Not Placed,Not Placed
+11052,Not Placed,Not Placed
+4325,Placed,Placed
+31402,Not Placed,Not Placed
+28387,Placed,Placed
+36023,Placed,Placed
+2689,Not Placed,Not Placed
+39527,Not Placed,Not Placed
+21043,Placed,Placed
+40506,Not Placed,Not Placed
+22555,Not Placed,Not Placed
+49807,Placed,Placed
+11388,Placed,Placed
+6748,Placed,Placed
+41884,Placed,Placed
+31382,Not Placed,Not Placed
+35323,Not Placed,Not Placed
+46677,Not Placed,Not Placed
+31288,Not Placed,Not Placed
+27371,Not Placed,Not Placed
+3741,Placed,Placed
+41469,Not Placed,Not Placed
+28061,Placed,Placed
+7630,Placed,Placed
+47757,Not Placed,Not Placed
+27567,Not Placed,Not Placed
+6582,Not Placed,Not Placed
+40951,Not Placed,Not Placed
+29991,Not Placed,Not Placed
+41175,Placed,Placed
+893,Not Placed,Not Placed
+34732,Not Placed,Not Placed
+25285,Not Placed,Not Placed
+2688,Not Placed,Not Placed
+49813,Not Placed,Not Placed
+28863,Not Placed,Not Placed
+39629,Not Placed,Not Placed
+24035,Not Placed,Not Placed
+23395,Placed,Placed
+43662,Not Placed,Not Placed
+49527,Not Placed,Not Placed
+33117,Not Placed,Not Placed
+22332,Not Placed,Not Placed
+37774,Not Placed,Not Placed
+41355,Placed,Placed
+30190,Not Placed,Not Placed
+30258,Placed,Placed
+34681,Placed,Placed
+23675,Not Placed,Not Placed
+40943,Not Placed,Not Placed
+46796,Placed,Placed
+31518,Not Placed,Not Placed
+34684,Not Placed,Not Placed
+11363,Not Placed,Not Placed
+38454,Not Placed,Not Placed
+13819,Placed,Placed
+32950,Placed,Placed
+44982,Not Placed,Not Placed
+36782,Not Placed,Not Placed
+9769,Not Placed,Not Placed
+10712,Placed,Placed
+16279,Not Placed,Not Placed
+39251,Placed,Placed
+25591,Not Placed,Not Placed
+38945,Placed,Placed
+25973,Placed,Placed
+10250,Placed,Placed
+18981,Placed,Placed
+17014,Placed,Placed
+2625,Placed,Placed
+37445,Not Placed,Not Placed
+5393,Placed,Placed
+16519,Not Placed,Not Placed
+48256,Not Placed,Not Placed
+4677,Not Placed,Not Placed
+31706,Not Placed,Not Placed
+8995,Not Placed,Not Placed
+3793,Not Placed,Not Placed
+14295,Not Placed,Not Placed
+15127,Placed,Placed
+27049,Not Placed,Not Placed
+8257,Not Placed,Not Placed
+21004,Placed,Placed
+38458,Placed,Placed
+33855,Not Placed,Not Placed
+22291,Not Placed,Not Placed
+30335,Not Placed,Not Placed
+12056,Placed,Placed
+37737,Not Placed,Not Placed
+48556,Not Placed,Not Placed
+48170,Not Placed,Not Placed
+3438,Placed,Placed
+49615,Placed,Placed
+41817,Not Placed,Not Placed
+40361,Placed,Placed
+25671,Not Placed,Not Placed
+29100,Not Placed,Not Placed
+42221,Placed,Placed
+24643,Placed,Placed
+37072,Placed,Placed
+31961,Not Placed,Not Placed
+48166,Placed,Placed
+20135,Not Placed,Not Placed
+12403,Not Placed,Not Placed
+7028,Placed,Placed
+25862,Not Placed,Not Placed
+4182,Placed,Placed
+45867,Not Placed,Not Placed
+28624,Placed,Placed
+9574,Placed,Placed
+15416,Not Placed,Not Placed
+32202,Not Placed,Not Placed
+5150,Not Placed,Not Placed
+48207,Not Placed,Not Placed
+31553,Placed,Placed
+26181,Not Placed,Not Placed
+25587,Placed,Placed
+35786,Not Placed,Not Placed
+11169,Not Placed,Not Placed
+13674,Not Placed,Not Placed
+48967,Placed,Placed
+1829,Not Placed,Not Placed
+35010,Placed,Placed
+46281,Not Placed,Not Placed
+39255,Placed,Placed
+25220,Not Placed,Not Placed
+15377,Not Placed,Not Placed
+12237,Not Placed,Not Placed
+9005,Not Placed,Not Placed
+4141,Not Placed,Not Placed
+1165,Not Placed,Not Placed
+30824,Placed,Placed
+23988,Not Placed,Not Placed
+22744,Not Placed,Not Placed
+1442,Placed,Placed
+22374,Placed,Placed
+11111,Not Placed,Not Placed
+48326,Placed,Placed
+4813,Not Placed,Not Placed
+10824,Placed,Placed
+21531,Placed,Placed
+31044,Not Placed,Not Placed
+30449,Not Placed,Not Placed
+15913,Not Placed,Not Placed
+48454,Not Placed,Not Placed
+43962,Placed,Placed
+47538,Not Placed,Not Placed
+418,Not Placed,Not Placed
+16122,Not Placed,Not Placed
+43501,Not Placed,Not Placed
+6820,Not Placed,Not Placed
+29021,Not Placed,Not Placed
+42764,Not Placed,Not Placed
+15135,Placed,Placed
+821,Not Placed,Not Placed
+48243,Placed,Placed
+10293,Not Placed,Not Placed
+39620,Not Placed,Not Placed
+39158,Not Placed,Not Placed
+13162,Placed,Placed
+42288,Not Placed,Not Placed
+11187,Placed,Placed
+20704,Not Placed,Not Placed
+24271,Not Placed,Not Placed
+23415,Placed,Placed
+7901,Not Placed,Not Placed
+31836,Not Placed,Not Placed
+8921,Not Placed,Not Placed
+34858,Placed,Placed
+3750,Not Placed,Not Placed
+1052,Not Placed,Not Placed
+24125,Placed,Placed
+38411,Not Placed,Not Placed
+17690,Not Placed,Not Placed
+36617,Not Placed,Not Placed
+21058,Not Placed,Not Placed
+16283,Not Placed,Not Placed
+43615,Placed,Placed
+38594,Placed,Placed
+7474,Not Placed,Not Placed
+49099,Placed,Placed
+7836,Placed,Placed
+4940,Placed,Placed
+21965,Not Placed,Not Placed
+12863,Not Placed,Not Placed
+32276,Not Placed,Not Placed
+46064,Not Placed,Not Placed
+17970,Placed,Placed
+22047,Not Placed,Not Placed
+558,Not Placed,Not Placed
+12530,Placed,Placed
+31111,Not Placed,Not Placed
+21171,Not Placed,Not Placed
+35356,Not Placed,Not Placed
+11415,Placed,Placed
+49863,Not Placed,Not Placed
+49407,Placed,Placed
+20179,Not Placed,Not Placed
+40996,Not Placed,Not Placed
+10283,Not Placed,Not Placed
+18669,Not Placed,Not Placed
+30274,Not Placed,Not Placed
+2791,Not Placed,Not Placed
+616,Placed,Placed
+25636,Not Placed,Not Placed
+24249,Not Placed,Not Placed
+44449,Not Placed,Not Placed
+39311,Placed,Placed
+13719,Not Placed,Not Placed
+42475,Not Placed,Not Placed
+35801,Not Placed,Not Placed
+20090,Placed,Placed
+43184,Not Placed,Not Placed
+17684,Not Placed,Not Placed
+11901,Not Placed,Not Placed
+28263,Placed,Placed
+25830,Not Placed,Not Placed
+49427,Not Placed,Not Placed
+37499,Not Placed,Not Placed
+45808,Not Placed,Not Placed
+33484,Placed,Placed
+30865,Placed,Placed
+31483,Placed,Placed
+3171,Not Placed,Not Placed
+41781,Not Placed,Not Placed
+25846,Not Placed,Not Placed
+36567,Placed,Placed
+17565,Placed,Placed
+10243,Not Placed,Not Placed
+22005,Not Placed,Not Placed
+27114,Not Placed,Not Placed
+26173,Not Placed,Not Placed
+46028,Placed,Placed
+43038,Placed,Placed
+21633,Not Placed,Not Placed
+45797,Not Placed,Not Placed
+37679,Placed,Placed
+15893,Not Placed,Not Placed
+24290,Not Placed,Not Placed
+14840,Not Placed,Not Placed
+7670,Not Placed,Not Placed
+38176,Placed,Placed
+29344,Not Placed,Not Placed
+6861,Not Placed,Not Placed
+41954,Not Placed,Not Placed
+9693,Not Placed,Not Placed
+33363,Not Placed,Not Placed
+37403,Placed,Placed
+34996,Not Placed,Not Placed
+11486,Not Placed,Not Placed
+196,Not Placed,Not Placed
+38068,Placed,Placed
+13788,Not Placed,Not Placed
+7530,Not Placed,Not Placed
+24863,Not Placed,Not Placed
+15019,Not Placed,Not Placed
+45033,Not Placed,Not Placed
+18036,Placed,Placed
+35797,Placed,Placed
+6751,Not Placed,Not Placed
+34986,Placed,Placed
+29825,Placed,Placed
+17168,Not Placed,Not Placed
+46454,Not Placed,Not Placed
+34467,Not Placed,Not Placed
+37103,Placed,Placed
+39899,Placed,Placed
+25566,Not Placed,Not Placed
+36014,Not Placed,Not Placed
+5352,Not Placed,Not Placed
+26484,Not Placed,Not Placed
+21807,Not Placed,Not Placed
+1746,Placed,Placed
+47659,Placed,Placed
+12601,Not Placed,Not Placed
+44020,Not Placed,Not Placed
+43716,Not Placed,Not Placed
+24821,Placed,Placed
+33051,Placed,Placed
+48436,Not Placed,Not Placed
+23647,Placed,Placed
+18363,Placed,Placed
+28234,Not Placed,Not Placed
+12977,Placed,Placed
+31380,Not Placed,Not Placed
+18037,Placed,Placed
+2388,Not Placed,Not Placed
+36898,Not Placed,Not Placed
+12208,Not Placed,Not Placed
+31337,Not Placed,Not Placed
+36635,Placed,Placed
+46359,Placed,Placed
+18183,Not Placed,Not Placed
+28363,Placed,Placed
+44749,Placed,Placed
+22560,Not Placed,Not Placed
+33327,Placed,Placed
+21913,Not Placed,Not Placed
+20585,Not Placed,Not Placed
+38278,Not Placed,Not Placed
+43014,Not Placed,Not Placed
+6925,Placed,Placed
+47140,Not Placed,Not Placed
+19209,Placed,Placed
+23263,Not Placed,Not Placed
+23862,Not Placed,Not Placed
+12702,Not Placed,Not Placed
+14737,Placed,Placed
+38582,Not Placed,Not Placed
+18645,Not Placed,Not Placed
+46616,Not Placed,Not Placed
+41121,Placed,Placed
+1942,Not Placed,Not Placed
+15645,Not Placed,Not Placed
+8235,Placed,Placed
+49311,Not Placed,Not Placed
+28905,Not Placed,Not Placed
+3145,Not Placed,Not Placed
+22318,Not Placed,Not Placed
+36903,Placed,Placed
+27153,Placed,Placed
+46614,Not Placed,Not Placed
+48791,Not Placed,Not Placed
+47224,Not Placed,Not Placed
+15543,Placed,Placed
+3729,Placed,Placed
+41280,Not Placed,Not Placed
+4937,Not Placed,Not Placed
+8360,Not Placed,Not Placed
+13300,Not Placed,Not Placed
+16034,Placed,Placed
+28909,Not Placed,Not Placed
+43091,Placed,Placed
+40919,Not Placed,Not Placed
+40526,Not Placed,Not Placed
+32499,Not Placed,Not Placed
+36135,Placed,Placed
+4864,Not Placed,Not Placed
+17607,Not Placed,Not Placed
+21172,Placed,Placed
+14878,Placed,Placed
+17629,Not Placed,Not Placed
+30687,Placed,Placed
+11529,Not Placed,Not Placed
+2670,Not Placed,Not Placed
+37235,Placed,Placed
+6199,Not Placed,Not Placed
+38699,Not Placed,Not Placed
+35993,Not Placed,Not Placed
+24753,Not Placed,Not Placed
+32082,Not Placed,Not Placed
+44103,Not Placed,Not Placed
+32394,Placed,Placed
+15721,Not Placed,Not Placed
+10497,Placed,Placed
+17057,Not Placed,Not Placed
+11855,Not Placed,Not Placed
+12422,Not Placed,Not Placed
+26010,Placed,Placed
+1300,Placed,Placed
+34632,Placed,Placed
+35297,Not Placed,Not Placed
+33535,Placed,Placed
+7318,Not Placed,Not Placed
+49284,Not Placed,Not Placed
+2560,Not Placed,Not Placed
+28327,Placed,Placed
+41960,Not Placed,Not Placed
+33180,Not Placed,Not Placed
+30126,Not Placed,Not Placed
+20652,Not Placed,Not Placed
+3869,Placed,Placed
+8614,Not Placed,Not Placed
+9032,Not Placed,Not Placed
+40303,Placed,Placed
+46206,Not Placed,Not Placed
+9556,Placed,Placed
+42438,Not Placed,Not Placed
+29423,Not Placed,Not Placed
+48502,Not Placed,Not Placed
+22754,Placed,Placed
+15791,Placed,Placed
+44628,Not Placed,Not Placed
+4971,Placed,Placed
+42002,Placed,Placed
+46104,Not Placed,Not Placed
+23108,Placed,Placed
+45211,Placed,Placed
+32066,Not Placed,Not Placed
+48646,Not Placed,Not Placed
+26148,Placed,Placed
+37291,Placed,Placed
+31576,Not Placed,Not Placed
+32906,Placed,Placed
+25521,Not Placed,Not Placed
+3570,Not Placed,Not Placed
+32153,Not Placed,Not Placed
+37086,Placed,Placed
+13987,Not Placed,Not Placed
+7908,Not Placed,Not Placed
+42300,Not Placed,Not Placed
+11475,Placed,Placed
+14901,Placed,Placed
+2900,Not Placed,Not Placed
+41406,Not Placed,Not Placed
+10034,Not Placed,Not Placed
+13306,Not Placed,Not Placed
+32734,Not Placed,Not Placed
+161,Placed,Placed
+2165,Placed,Placed
+17199,Placed,Placed
+32245,Placed,Placed
+12997,Placed,Placed
+46301,Placed,Placed
+31691,Not Placed,Not Placed
+19098,Placed,Placed
+5573,Not Placed,Not Placed
+25268,Not Placed,Not Placed
+12063,Not Placed,Not Placed
+38767,Placed,Placed
+38539,Not Placed,Not Placed
+18614,Not Placed,Not Placed
+17595,Not Placed,Not Placed
+38720,Not Placed,Not Placed
+33264,Placed,Placed
+24598,Not Placed,Not Placed
+13839,Placed,Placed
+3700,Not Placed,Not Placed
+33172,Not Placed,Not Placed
+1845,Not Placed,Not Placed
+38862,Placed,Placed
+45932,Placed,Placed
+35841,Not Placed,Not Placed
+29187,Placed,Placed
+31282,Not Placed,Not Placed
+5181,Not Placed,Not Placed
+2832,Not Placed,Not Placed
+41788,Not Placed,Not Placed
+43180,Not Placed,Not Placed
+42001,Placed,Placed
+44104,Not Placed,Not Placed
+18532,Not Placed,Not Placed
+43919,Not Placed,Not Placed
+14766,Placed,Placed
+49062,Placed,Placed
+46818,Not Placed,Not Placed
+22424,Placed,Placed
+10221,Not Placed,Not Placed
+11846,Not Placed,Not Placed
+43472,Not Placed,Not Placed
+16756,Placed,Placed
+31000,Not Placed,Not Placed
+32137,Placed,Placed
+41895,Not Placed,Not Placed
+13589,Not Placed,Not Placed
+8543,Not Placed,Not Placed
+48856,Not Placed,Not Placed
+2539,Placed,Placed
+9014,Not Placed,Not Placed
+45209,Not Placed,Not Placed
+35038,Placed,Placed
+9232,Placed,Placed
+5311,Not Placed,Not Placed
+10619,Placed,Placed
+46985,Placed,Placed
+33307,Not Placed,Not Placed
+14932,Placed,Placed
+15422,Not Placed,Not Placed
+18517,Not Placed,Not Placed
+11537,Placed,Placed
+8424,Not Placed,Not Placed
+3088,Placed,Placed
+21321,Not Placed,Not Placed
+11156,Not Placed,Not Placed
+22553,Placed,Placed
+41967,Placed,Placed
+11893,Placed,Placed
+36705,Placed,Placed
+1570,Not Placed,Not Placed
+6528,Not Placed,Not Placed
+6171,Not Placed,Not Placed
+30624,Placed,Placed
+45836,Not Placed,Not Placed
+46292,Not Placed,Not Placed
+4344,Not Placed,Not Placed
+25829,Placed,Placed
+4709,Not Placed,Not Placed
+39996,Not Placed,Not Placed
+3775,Not Placed,Not Placed
+41886,Not Placed,Not Placed
+34934,Not Placed,Not Placed
+37935,Not Placed,Not Placed
+11607,Placed,Placed
+8904,Not Placed,Not Placed
+3503,Not Placed,Not Placed
+27337,Placed,Placed
+5195,Placed,Placed
+3922,Placed,Placed
+11849,Placed,Placed
+33707,Not Placed,Not Placed
+21756,Not Placed,Not Placed
+20602,Not Placed,Not Placed
+26470,Placed,Placed
+33211,Not Placed,Not Placed
+39422,Placed,Placed
+48981,Not Placed,Not Placed
+46627,Not Placed,Not Placed
+37981,Not Placed,Not Placed
+28326,Not Placed,Not Placed
+14037,Placed,Placed
+20597,Placed,Placed
+13814,Not Placed,Not Placed
+9316,Not Placed,Not Placed
+32098,Placed,Placed
+34031,Placed,Placed
+2262,Placed,Placed
+18572,Placed,Placed
+48077,Placed,Placed
+13454,Not Placed,Not Placed
+18058,Not Placed,Not Placed
+47217,Placed,Placed
+2904,Not Placed,Not Placed
+33836,Not Placed,Not Placed
+4671,Not Placed,Not Placed
+15926,Not Placed,Not Placed
+41801,Not Placed,Not Placed
+34690,Not Placed,Not Placed
+45588,Not Placed,Not Placed
+31487,Not Placed,Not Placed
+21113,Not Placed,Not Placed
+35870,Not Placed,Not Placed
+17996,Placed,Placed
+23978,Not Placed,Not Placed
+10930,Placed,Placed
+19066,Not Placed,Not Placed
+765,Not Placed,Not Placed
+42852,Placed,Placed
+47928,Placed,Placed
+5725,Not Placed,Not Placed
+41167,Not Placed,Not Placed
+27562,Not Placed,Not Placed
+22466,Not Placed,Not Placed
+39461,Not Placed,Not Placed
+42985,Placed,Placed
+9281,Placed,Placed
+27494,Placed,Placed
+24773,Not Placed,Not Placed
+40053,Not Placed,Not Placed
+43582,Not Placed,Not Placed
+24066,Placed,Placed
+14175,Not Placed,Not Placed
+13534,Not Placed,Not Placed
+46706,Placed,Placed
+10703,Not Placed,Not Placed
+40691,Not Placed,Not Placed
+25773,Placed,Placed
+38370,Not Placed,Not Placed
+16457,Not Placed,Not Placed
+10785,Not Placed,Not Placed
+1862,Not Placed,Not Placed
+47016,Not Placed,Not Placed
+49352,Not Placed,Not Placed
+20426,Placed,Placed
+245,Placed,Placed
+33337,Not Placed,Not Placed
+5312,Not Placed,Not Placed
+34133,Not Placed,Not Placed
+4652,Not Placed,Not Placed
+35347,Not Placed,Not Placed
+17852,Not Placed,Not Placed
+34837,Not Placed,Not Placed
+21062,Not Placed,Not Placed
+3046,Not Placed,Not Placed
+18202,Not Placed,Not Placed
+37779,Not Placed,Not Placed
+40482,Placed,Placed
+32725,Not Placed,Not Placed
+15932,Not Placed,Not Placed
+22152,Not Placed,Not Placed
+17025,Placed,Placed
+42366,Placed,Placed
+7159,Not Placed,Not Placed
+31994,Not Placed,Not Placed
+6646,Not Placed,Not Placed
+2252,Placed,Placed
+14511,Not Placed,Not Placed
+26057,Not Placed,Not Placed
+33794,Not Placed,Not Placed
+29115,Placed,Placed
+34078,Not Placed,Not Placed
+38484,Placed,Placed
+2885,Placed,Placed
+696,Not Placed,Not Placed
+18699,Not Placed,Not Placed
+46564,Not Placed,Not Placed
+4841,Placed,Placed
+26959,Not Placed,Not Placed
+1225,Not Placed,Not Placed
+5385,Placed,Placed
+18808,Not Placed,Not Placed
+45930,Not Placed,Not Placed
+14244,Placed,Placed
+21866,Placed,Placed
+45014,Not Placed,Not Placed
+14506,Not Placed,Not Placed
+3247,Not Placed,Not Placed
+49619,Placed,Placed
+7893,Placed,Placed
+32410,Not Placed,Not Placed
+19970,Not Placed,Not Placed
+30764,Not Placed,Not Placed
+20573,Not Placed,Not Placed
+16677,Placed,Placed
+17926,Not Placed,Not Placed
+48637,Placed,Placed
+36658,Not Placed,Not Placed
+16316,Placed,Placed
+23319,Placed,Placed
+26644,Not Placed,Not Placed
+2340,Not Placed,Not Placed
+48611,Not Placed,Not Placed
+37099,Not Placed,Not Placed
+21755,Not Placed,Not Placed
+49640,Placed,Placed
+29746,Placed,Placed
+19954,Not Placed,Not Placed
+31189,Not Placed,Not Placed
+30607,Not Placed,Not Placed
+1177,Not Placed,Not Placed
+20300,Not Placed,Not Placed
+5958,Not Placed,Not Placed
+36685,Not Placed,Not Placed
+40038,Not Placed,Not Placed
+12338,Not Placed,Not Placed
+15242,Not Placed,Not Placed
+43478,Not Placed,Not Placed
+22636,Not Placed,Not Placed
+47903,Placed,Placed
+12918,Not Placed,Not Placed
+1191,Not Placed,Not Placed
+44792,Placed,Placed
+21463,Placed,Placed
+41761,Not Placed,Not Placed
+39093,Not Placed,Not Placed
+20673,Not Placed,Not Placed
+27679,Not Placed,Not Placed
+36460,Not Placed,Not Placed
+12934,Placed,Placed
+25281,Not Placed,Not Placed
+3502,Placed,Placed
+41087,Not Placed,Not Placed
+7805,Not Placed,Not Placed
+26466,Not Placed,Not Placed
+23763,Not Placed,Not Placed
+38389,Placed,Placed
+24755,Placed,Placed
+19896,Placed,Placed
+30694,Placed,Placed
+42883,Not Placed,Not Placed
+32722,Not Placed,Not Placed
+7257,Not Placed,Not Placed
+11835,Not Placed,Not Placed
+7162,Placed,Placed
+40693,Placed,Placed
+45384,Placed,Placed
+913,Not Placed,Not Placed
+43736,Not Placed,Not Placed
+31930,Placed,Placed
+16811,Not Placed,Not Placed
+13015,Placed,Placed
+33996,Not Placed,Not Placed
+41346,Not Placed,Not Placed
+5284,Not Placed,Not Placed
+19017,Not Placed,Not Placed
+6823,Placed,Placed
+21245,Placed,Placed
+10748,Not Placed,Not Placed
+34369,Not Placed,Not Placed
+31616,Not Placed,Not Placed
+7663,Placed,Placed
+26517,Placed,Placed
+3605,Not Placed,Not Placed
+11309,Placed,Placed
+42655,Not Placed,Not Placed
+39882,Placed,Placed
+42966,Not Placed,Not Placed
+39894,Placed,Placed
+42180,Placed,Placed
+48513,Placed,Placed
+29396,Placed,Placed
+39770,Not Placed,Not Placed
+29923,Not Placed,Not Placed
+19020,Not Placed,Not Placed
+43334,Not Placed,Not Placed
+33461,Not Placed,Not Placed
+34893,Not Placed,Not Placed
+19393,Not Placed,Not Placed
+6170,Placed,Placed
+33141,Placed,Placed
+31512,Not Placed,Not Placed
+15421,Not Placed,Not Placed
+36963,Placed,Placed
+34490,Not Placed,Not Placed
+44978,Placed,Placed
+21992,Not Placed,Not Placed
+30762,Not Placed,Not Placed
+8957,Placed,Placed
+48241,Not Placed,Not Placed
+16920,Not Placed,Not Placed
+47189,Not Placed,Not Placed
+12393,Not Placed,Not Placed
+42310,Not Placed,Not Placed
+27173,Not Placed,Not Placed
+46660,Not Placed,Not Placed
+49441,Placed,Placed
+17331,Not Placed,Not Placed
+4187,Not Placed,Not Placed
+46623,Placed,Placed
+10481,Not Placed,Not Placed
+3362,Not Placed,Not Placed
+22751,Not Placed,Not Placed
+12564,Not Placed,Not Placed
+43166,Not Placed,Not Placed
+19836,Not Placed,Not Placed
+33401,Not Placed,Not Placed
+32286,Placed,Placed
+18395,Not Placed,Not Placed
+33650,Not Placed,Not Placed
+23307,Placed,Placed
+1573,Not Placed,Not Placed
+13100,Not Placed,Not Placed
+21749,Not Placed,Not Placed
+21602,Placed,Placed
+20667,Not Placed,Not Placed
+39226,Not Placed,Not Placed
+31846,Not Placed,Not Placed
+37831,Placed,Placed
+2956,Not Placed,Not Placed
+10741,Not Placed,Not Placed
+44341,Placed,Placed
+3194,Not Placed,Not Placed
+10937,Not Placed,Not Placed
+44977,Not Placed,Not Placed
+16799,Placed,Placed
+36619,Not Placed,Not Placed
+12919,Not Placed,Not Placed
+46906,Not Placed,Not Placed
+30604,Not Placed,Not Placed
+12264,Placed,Placed
+49410,Not Placed,Not Placed
+46493,Placed,Placed
+37298,Not Placed,Not Placed
+16428,Not Placed,Not Placed
+36151,Not Placed,Not Placed
+8527,Not Placed,Not Placed
+6586,Placed,Placed
+45997,Not Placed,Not Placed
+23689,Not Placed,Not Placed
+32514,Not Placed,Not Placed
+4442,Not Placed,Not Placed
+43826,Not Placed,Not Placed
+21233,Not Placed,Not Placed
+48609,Placed,Placed
+3052,Placed,Placed
+48602,Not Placed,Not Placed
+12255,Placed,Placed
+4152,Not Placed,Not Placed
+21717,Placed,Placed
+34896,Placed,Placed
+41206,Not Placed,Not Placed
+28331,Placed,Placed
+8422,Placed,Placed
+27825,Placed,Placed
+25808,Placed,Placed
+20042,Placed,Placed
+37412,Not Placed,Not Placed
+26357,Placed,Placed
+36626,Not Placed,Not Placed
+44713,Not Placed,Not Placed
+28122,Placed,Placed
+24084,Placed,Placed
+43823,Not Placed,Not Placed
+11198,Not Placed,Not Placed
+13428,Not Placed,Not Placed
+45484,Placed,Placed
+6309,Placed,Placed
+22824,Placed,Placed
+37719,Not Placed,Not Placed
+47452,Placed,Placed
+43449,Placed,Placed
+21536,Not Placed,Not Placed
+4666,Placed,Placed
+23918,Placed,Placed
+22582,Placed,Placed
+28831,Placed,Placed
+7731,Not Placed,Not Placed
+24909,Not Placed,Not Placed
+13286,Not Placed,Not Placed
+27839,Not Placed,Not Placed
+27080,Placed,Placed
+22066,Not Placed,Not Placed
+40392,Not Placed,Not Placed
+1229,Placed,Placed
+38508,Not Placed,Not Placed
+16876,Not Placed,Not Placed
+18724,Placed,Placed
+18264,Not Placed,Not Placed
+25088,Placed,Placed
+12407,Not Placed,Not Placed
+26760,Not Placed,Not Placed
+40574,Placed,Placed
+17921,Not Placed,Not Placed
+35614,Placed,Placed
+16565,Not Placed,Not Placed
+40590,Not Placed,Not Placed
+42445,Placed,Placed
+2915,Not Placed,Not Placed
+41089,Not Placed,Not Placed
+12321,Placed,Placed
+13639,Not Placed,Not Placed
+17065,Not Placed,Not Placed
+29054,Placed,Placed
+42476,Placed,Placed
+2133,Not Placed,Not Placed
+31726,Not Placed,Not Placed
+8809,Not Placed,Not Placed
+46275,Placed,Placed
+47671,Not Placed,Not Placed
+15059,Not Placed,Not Placed
+7614,Not Placed,Not Placed
+2547,Placed,Placed
+1126,Placed,Placed
+32556,Placed,Placed
+33473,Not Placed,Not Placed
+42315,Placed,Placed
+28681,Placed,Placed
+2857,Placed,Placed
+41828,Placed,Placed
+47383,Not Placed,Not Placed
+17884,Not Placed,Not Placed
+18194,Not Placed,Not Placed
+44148,Not Placed,Not Placed
+42550,Placed,Placed
+44278,Not Placed,Not Placed
+7268,Not Placed,Not Placed
+18616,Placed,Placed
+2328,Not Placed,Not Placed
+26840,Placed,Placed
+11417,Placed,Placed
+41604,Not Placed,Not Placed
+28667,Placed,Placed
+32815,Not Placed,Not Placed
+6416,Not Placed,Not Placed
+8766,Placed,Placed
+35146,Not Placed,Not Placed
+45449,Not Placed,Not Placed
+22169,Not Placed,Not Placed
+17688,Not Placed,Not Placed
+24488,Placed,Placed
+6208,Not Placed,Not Placed
+42831,Not Placed,Not Placed
+1571,Not Placed,Not Placed
+19050,Not Placed,Not Placed
+30817,Placed,Placed
+36665,Not Placed,Not Placed
+17050,Placed,Placed
+35771,Not Placed,Not Placed
+5018,Not Placed,Not Placed
+31449,Placed,Placed
+37687,Placed,Placed
+4584,Placed,Placed
+32015,Not Placed,Not Placed
+40354,Not Placed,Not Placed
+959,Placed,Placed
+11563,Not Placed,Not Placed
+12645,Not Placed,Not Placed
+40527,Placed,Placed
+45204,Not Placed,Not Placed
+35521,Placed,Placed
+13524,Not Placed,Not Placed
+31640,Placed,Placed
+6780,Placed,Placed
+19138,Not Placed,Not Placed
+9174,Placed,Placed
+8867,Placed,Placed
+3319,Placed,Placed
+21757,Not Placed,Not Placed
+23757,Placed,Placed
+13257,Placed,Placed
+631,Placed,Placed
+46843,Placed,Placed
+40874,Placed,Placed
+20240,Not Placed,Not Placed
+16735,Not Placed,Not Placed
+6707,Placed,Placed
+33067,Not Placed,Not Placed
+3963,Placed,Placed
+18491,Not Placed,Not Placed
+30536,Not Placed,Not Placed
+29595,Not Placed,Not Placed
+48837,Placed,Placed
+45150,Placed,Placed
+602,Not Placed,Not Placed
+4295,Not Placed,Not Placed
+9837,Not Placed,Not Placed
+1113,Not Placed,Not Placed
+35875,Not Placed,Not Placed
+20420,Placed,Placed
+46008,Not Placed,Not Placed
+28601,Not Placed,Not Placed
+23495,Not Placed,Not Placed
+4298,Not Placed,Not Placed
+13338,Placed,Placed
+38441,Not Placed,Not Placed
+40457,Not Placed,Not Placed
+34400,Not Placed,Not Placed
+9751,Not Placed,Not Placed
+7473,Not Placed,Not Placed
+16434,Not Placed,Not Placed
+5211,Placed,Placed
+4846,Placed,Placed
+33767,Not Placed,Not Placed
+21442,Placed,Placed
+45077,Placed,Placed
+12479,Not Placed,Not Placed
+45423,Placed,Placed
+38410,Placed,Placed
+4819,Placed,Placed
+2125,Placed,Placed
+43113,Not Placed,Not Placed
+14082,Not Placed,Not Placed
+47401,Placed,Placed
+12383,Not Placed,Not Placed
+32679,Placed,Placed
+18573,Placed,Placed
+8986,Placed,Placed
+46089,Not Placed,Not Placed
+19107,Not Placed,Not Placed
+40776,Placed,Placed
+41446,Not Placed,Not Placed
+34248,Not Placed,Not Placed
+3800,Not Placed,Not Placed
+17832,Not Placed,Not Placed
+3116,Not Placed,Not Placed
+17666,Not Placed,Not Placed
+39263,Not Placed,Not Placed
+9134,Not Placed,Not Placed
+40621,Placed,Placed
+22011,Placed,Placed
+44370,Not Placed,Not Placed
+37850,Not Placed,Not Placed
+35160,Not Placed,Not Placed
+33217,Not Placed,Not Placed
+41785,Not Placed,Not Placed
+17350,Not Placed,Not Placed
+23050,Placed,Placed
+38507,Not Placed,Not Placed
+13709,Placed,Placed
+6013,Placed,Placed
+33096,Not Placed,Not Placed
+5878,Not Placed,Not Placed
+1840,Placed,Placed
+25466,Not Placed,Not Placed
+29528,Not Placed,Not Placed
+5257,Not Placed,Not Placed
+40779,Not Placed,Not Placed
+32130,Not Placed,Not Placed
+3038,Not Placed,Not Placed
+13740,Not Placed,Not Placed
+8254,Not Placed,Not Placed
+3802,Not Placed,Not Placed
+24853,Not Placed,Not Placed
+13073,Placed,Placed
+10698,Not Placed,Not Placed
+5817,Placed,Placed
+49166,Not Placed,Not Placed
+25844,Placed,Placed
+5254,Not Placed,Not Placed
+37130,Not Placed,Not Placed
+45530,Placed,Placed
+10173,Not Placed,Not Placed
+34362,Placed,Placed
+37900,Placed,Placed
+42298,Not Placed,Not Placed
+5512,Placed,Placed
+8572,Placed,Placed
+44839,Not Placed,Not Placed
+44055,Not Placed,Not Placed
+24950,Placed,Placed
+41943,Not Placed,Not Placed
+27926,Not Placed,Not Placed
+27143,Not Placed,Not Placed
+21609,Placed,Placed
+3647,Placed,Placed
+46750,Not Placed,Not Placed
+20956,Not Placed,Not Placed
+25145,Not Placed,Not Placed
+13250,Placed,Placed
+18075,Placed,Placed
+26587,Placed,Placed
+17524,Not Placed,Not Placed
+15586,Not Placed,Not Placed
+10675,Placed,Placed
+17954,Not Placed,Not Placed
+47813,Not Placed,Not Placed
+15704,Not Placed,Not Placed
+27757,Placed,Placed
+40594,Placed,Placed
+46674,Placed,Placed
+12128,Not Placed,Not Placed
+41391,Placed,Placed
+15184,Not Placed,Not Placed
+20192,Placed,Placed
+7998,Not Placed,Not Placed
+11949,Placed,Placed
+22079,Not Placed,Not Placed
+3953,Not Placed,Not Placed
+42327,Not Placed,Not Placed
+46560,Placed,Placed
+1301,Not Placed,Not Placed
+20185,Not Placed,Not Placed
+39931,Placed,Placed
+36722,Not Placed,Not Placed
+25583,Not Placed,Not Placed
+18054,Not Placed,Not Placed
+17138,Not Placed,Not Placed
+38022,Placed,Placed
+16246,Placed,Placed
+745,Not Placed,Not Placed
+37278,Not Placed,Not Placed
+45321,Placed,Placed
+24617,Not Placed,Not Placed
+20701,Not Placed,Not Placed
+40182,Placed,Placed
+32717,Not Placed,Not Placed
+48163,Not Placed,Not Placed
+42885,Not Placed,Not Placed
+42472,Not Placed,Not Placed
+11338,Placed,Placed
+37524,Not Placed,Not Placed
+20959,Placed,Placed
+34010,Not Placed,Not Placed
+15551,Not Placed,Not Placed
+30143,Placed,Placed
+29042,Not Placed,Not Placed
+28296,Not Placed,Not Placed
+5682,Not Placed,Not Placed
+8443,Not Placed,Not Placed
+37872,Not Placed,Not Placed
+26874,Not Placed,Not Placed
+10175,Not Placed,Not Placed
+31256,Not Placed,Not Placed
+31584,Not Placed,Not Placed
+30920,Placed,Placed
+47768,Placed,Placed
+10323,Placed,Placed
+11262,Placed,Placed
+19027,Not Placed,Not Placed
+42234,Not Placed,Not Placed
+20615,Placed,Placed
+15771,Not Placed,Not Placed
+6963,Not Placed,Not Placed
+49310,Placed,Placed
+39198,Not Placed,Not Placed
+30093,Not Placed,Not Placed
+3058,Placed,Placed
+19233,Not Placed,Not Placed
+27810,Placed,Placed
+6482,Placed,Placed
+24013,Placed,Placed
+43558,Not Placed,Not Placed
+10774,Not Placed,Not Placed
+46656,Not Placed,Not Placed
+22620,Placed,Placed
+48725,Not Placed,Not Placed
+29451,Not Placed,Not Placed
+24665,Not Placed,Not Placed
+26614,Placed,Placed
+15396,Not Placed,Not Placed
+43954,Not Placed,Not Placed
+36591,Not Placed,Not Placed
+43149,Not Placed,Not Placed
+26749,Not Placed,Not Placed
+40487,Not Placed,Not Placed
+29171,Placed,Placed
+43411,Not Placed,Not Placed
+22658,Placed,Placed
+43353,Placed,Placed
+46579,Placed,Placed
+39875,Not Placed,Not Placed
+11920,Not Placed,Not Placed
+26778,Placed,Placed
+13514,Not Placed,Not Placed
+14391,Placed,Placed
+7158,Not Placed,Not Placed
+10818,Not Placed,Not Placed
+31721,Not Placed,Not Placed
+16319,Not Placed,Not Placed
+46536,Not Placed,Not Placed
+38549,Not Placed,Not Placed
+7975,Not Placed,Not Placed
+36984,Placed,Placed
+12367,Not Placed,Not Placed
+44945,Not Placed,Not Placed
+12925,Not Placed,Not Placed
+5876,Not Placed,Not Placed
+48954,Placed,Placed
+12035,Placed,Placed
+49493,Not Placed,Not Placed
+18439,Not Placed,Not Placed
+46266,Placed,Placed
+46140,Placed,Placed
+16182,Not Placed,Not Placed
+28045,Placed,Placed
+14262,Not Placed,Not Placed
+45491,Not Placed,Not Placed
+28007,Not Placed,Not Placed
+1707,Not Placed,Not Placed
+24253,Placed,Placed
+5009,Not Placed,Not Placed
+33668,Not Placed,Not Placed
+31525,Not Placed,Not Placed
+741,Placed,Placed
+10595,Not Placed,Not Placed
+23025,Not Placed,Not Placed
+39923,Not Placed,Not Placed
+20106,Placed,Placed
+9677,Placed,Placed
+18010,Placed,Placed
+46546,Not Placed,Not Placed
+3268,Not Placed,Not Placed
+11900,Placed,Placed
+22794,Not Placed,Not Placed
+41661,Not Placed,Not Placed
+36804,Not Placed,Not Placed
+30198,Not Placed,Not Placed
+31893,Not Placed,Not Placed
+25042,Not Placed,Not Placed
+20103,Placed,Placed
+41796,Not Placed,Not Placed
+30894,Not Placed,Not Placed
+47638,Placed,Placed
+49792,Not Placed,Not Placed
+41177,Placed,Placed
+22115,Not Placed,Not Placed
+48504,Not Placed,Not Placed
+2950,Not Placed,Not Placed
+25879,Placed,Placed
+6670,Not Placed,Not Placed
+43151,Not Placed,Not Placed
+2090,Placed,Placed
+35024,Placed,Placed
+48266,Placed,Placed
+15972,Placed,Placed
+22837,Placed,Placed
+14689,Placed,Placed
+32636,Not Placed,Not Placed
+30989,Placed,Placed
+20987,Placed,Placed
+25260,Not Placed,Not Placed
+25324,Placed,Placed
+35110,Not Placed,Not Placed
+39941,Placed,Placed
+42612,Placed,Placed
+37433,Placed,Placed
+33160,Placed,Placed
+45173,Not Placed,Not Placed
+41024,Not Placed,Not Placed
+21482,Not Placed,Not Placed
+6292,Placed,Placed
+27273,Placed,Placed
+17340,Placed,Placed
+44888,Placed,Placed
+766,Not Placed,Not Placed
+24042,Placed,Placed
+41653,Not Placed,Not Placed
+14754,Not Placed,Not Placed
+19604,Placed,Placed
+41378,Placed,Placed
+27211,Placed,Placed
+14313,Not Placed,Not Placed
+24833,Placed,Placed
+32321,Not Placed,Not Placed
+49946,Not Placed,Not Placed
+23157,Placed,Placed
+6849,Placed,Placed
+30045,Placed,Placed
+44868,Not Placed,Not Placed
+5874,Not Placed,Not Placed
+21012,Not Placed,Not Placed
+37042,Placed,Placed
+23305,Placed,Placed
+25898,Not Placed,Not Placed
+29093,Placed,Placed
+41410,Placed,Placed
+5688,Placed,Placed
+30262,Placed,Placed
+18113,Not Placed,Not Placed
+498,Not Placed,Not Placed
+3582,Not Placed,Not Placed
+37759,Not Placed,Not Placed
+6827,Placed,Placed
+6872,Not Placed,Not Placed
+3236,Not Placed,Not Placed
+43868,Not Placed,Not Placed
+18021,Not Placed,Not Placed
+13608,Placed,Placed
+48515,Not Placed,Not Placed
+39319,Not Placed,Not Placed
+15361,Placed,Placed
+47524,Placed,Placed
+46487,Placed,Placed
+36780,Not Placed,Not Placed
+32827,Not Placed,Not Placed
+4936,Not Placed,Not Placed
+6959,Not Placed,Not Placed
+35759,Not Placed,Not Placed
+42999,Not Placed,Not Placed
+48537,Placed,Placed
+22025,Placed,Placed
+920,Placed,Placed
+36614,Not Placed,Not Placed
+31159,Placed,Placed
+19838,Not Placed,Not Placed
+14397,Not Placed,Not Placed
+8837,Not Placed,Not Placed
+977,Placed,Placed
+33780,Not Placed,Not Placed
+5218,Not Placed,Not Placed
+42864,Not Placed,Not Placed
+26864,Placed,Placed
+19964,Placed,Placed
+6698,Not Placed,Not Placed
+33371,Not Placed,Not Placed
+46810,Not Placed,Not Placed
+32604,Not Placed,Not Placed
+14791,Not Placed,Not Placed
+17675,Not Placed,Not Placed
+3921,Placed,Placed
+6397,Not Placed,Not Placed
+41859,Placed,Placed
+17922,Placed,Placed
+37652,Not Placed,Not Placed
+22981,Not Placed,Not Placed
+9916,Not Placed,Not Placed
+39030,Placed,Placed
+24823,Not Placed,Not Placed
+32427,Placed,Placed
+17186,Not Placed,Not Placed
+44681,Not Placed,Not Placed
+1153,Not Placed,Not Placed
+44245,Placed,Placed
+18686,Not Placed,Not Placed
+3712,Not Placed,Not Placed
+3124,Not Placed,Not Placed
+39828,Placed,Placed
+17549,Placed,Placed
+2259,Not Placed,Not Placed
+19963,Not Placed,Not Placed
+39357,Placed,Placed
+769,Not Placed,Not Placed
+44374,Placed,Placed
+20797,Placed,Placed
+21601,Placed,Placed
+4876,Not Placed,Not Placed
+22546,Not Placed,Not Placed
+49356,Not Placed,Not Placed
+48681,Not Placed,Not Placed
+567,Not Placed,Not Placed
+6888,Not Placed,Not Placed
+1193,Placed,Placed
+22525,Not Placed,Not Placed
+18274,Not Placed,Not Placed
+36444,Not Placed,Not Placed
+2181,Not Placed,Not Placed
+35331,Not Placed,Not Placed
+32390,Not Placed,Not Placed
+24404,Not Placed,Not Placed
+10345,Placed,Placed
+10807,Not Placed,Not Placed
+8150,Not Placed,Not Placed
+24659,Not Placed,Not Placed
+32249,Not Placed,Not Placed
+39789,Placed,Placed
+4017,Not Placed,Not Placed
+36008,Not Placed,Not Placed
+32869,Placed,Placed
+49075,Not Placed,Not Placed
+19688,Not Placed,Not Placed
+1953,Not Placed,Not Placed
+28303,Not Placed,Not Placed
+28439,Not Placed,Not Placed
+5918,Placed,Placed
+43174,Not Placed,Not Placed
+39930,Not Placed,Not Placed
+10771,Not Placed,Not Placed
+27666,Not Placed,Not Placed
+586,Not Placed,Not Placed
+41211,Placed,Placed
+32129,Placed,Placed
+33460,Placed,Placed
+10886,Not Placed,Not Placed
+38151,Not Placed,Not Placed
+44646,Not Placed,Not Placed
+5128,Not Placed,Not Placed
+10007,Placed,Placed
+48274,Placed,Placed
+7048,Placed,Placed
+7494,Placed,Placed
+27282,Placed,Placed
+5043,Not Placed,Not Placed
+10047,Placed,Placed
+1502,Not Placed,Not Placed
+10448,Placed,Placed
+5137,Placed,Placed
+26735,Not Placed,Not Placed
+19775,Not Placed,Not Placed
+595,Not Placed,Not Placed
+13062,Placed,Placed
+27870,Placed,Placed
+19347,Placed,Placed
+44518,Not Placed,Not Placed
+48497,Placed,Placed
+18921,Not Placed,Not Placed
+9307,Not Placed,Not Placed
+47138,Not Placed,Not Placed
+19576,Not Placed,Not Placed
+27323,Not Placed,Not Placed
+45253,Not Placed,Not Placed
+13878,Not Placed,Not Placed
+35015,Not Placed,Not Placed
+8960,Not Placed,Not Placed
+34152,Not Placed,Not Placed
+6085,Not Placed,Not Placed
+46338,Not Placed,Not Placed
+47541,Not Placed,Not Placed
+44947,Not Placed,Not Placed
+5276,Not Placed,Not Placed
+46391,Not Placed,Not Placed
+27847,Not Placed,Not Placed
+40952,Placed,Placed
+13220,Not Placed,Not Placed
+16912,Not Placed,Not Placed
+29256,Placed,Placed
+38802,Not Placed,Not Placed
+37909,Placed,Placed
+788,Placed,Placed
+45437,Not Placed,Not Placed
+37537,Not Placed,Not Placed
+22895,Placed,Placed
+17072,Placed,Placed
+25872,Placed,Placed
+19469,Not Placed,Not Placed
+35533,Not Placed,Not Placed
+606,Placed,Placed
+41711,Not Placed,Not Placed
+46055,Not Placed,Not Placed
+40503,Placed,Placed
+25040,Placed,Placed
+48106,Placed,Placed
+22629,Not Placed,Not Placed
+15345,Placed,Placed
+5439,Placed,Placed
+13717,Not Placed,Not Placed
+25617,Placed,Placed
+46718,Placed,Placed
+37169,Not Placed,Not Placed
+5593,Not Placed,Not Placed
+8457,Not Placed,Not Placed
+36848,Placed,Placed
+26442,Placed,Placed
+4830,Not Placed,Not Placed
+25020,Not Placed,Not Placed
+26394,Not Placed,Not Placed
+17416,Placed,Placed
+7042,Placed,Placed
+1462,Not Placed,Not Placed
+18190,Not Placed,Not Placed
+36117,Not Placed,Not Placed
+23953,Placed,Placed
+10217,Not Placed,Not Placed
+16896,Not Placed,Not Placed
+6335,Not Placed,Not Placed
+48437,Placed,Placed
+14552,Placed,Placed
+9993,Not Placed,Not Placed
+24567,Not Placed,Not Placed
+37188,Not Placed,Not Placed
+292,Not Placed,Not Placed
+44183,Not Placed,Not Placed
+4538,Not Placed,Not Placed
+30663,Placed,Placed
+6774,Placed,Placed
+39306,Placed,Placed
+9620,Not Placed,Not Placed
+38805,Placed,Placed
+33754,Not Placed,Not Placed
+30440,Not Placed,Not Placed
+39640,Not Placed,Not Placed
+13857,Not Placed,Not Placed
+21748,Placed,Placed
+28294,Not Placed,Not Placed
+33561,Not Placed,Not Placed
+722,Placed,Placed
+29298,Placed,Placed
+38045,Placed,Placed
+29912,Not Placed,Not Placed
+10613,Not Placed,Not Placed
+27165,Not Placed,Not Placed
+22453,Not Placed,Not Placed
+2752,Not Placed,Not Placed
+15359,Placed,Placed
+21971,Not Placed,Not Placed
+18985,Placed,Placed
+781,Not Placed,Not Placed
+323,Not Placed,Not Placed
+7866,Not Placed,Not Placed
+42931,Not Placed,Not Placed
+37283,Not Placed,Not Placed
+24344,Placed,Placed
+10140,Not Placed,Not Placed
+30223,Placed,Placed
+26880,Not Placed,Not Placed
+23079,Placed,Placed
+4653,Placed,Placed
+19125,Placed,Placed
+9144,Not Placed,Not Placed
+44937,Not Placed,Not Placed
+38002,Not Placed,Not Placed
+29630,Placed,Placed
+28646,Placed,Placed
+20267,Not Placed,Not Placed
+7134,Not Placed,Not Placed
+34008,Placed,Placed
+2541,Not Placed,Not Placed
+19495,Placed,Placed
+7950,Not Placed,Not Placed
+48604,Not Placed,Not Placed
+47464,Not Placed,Not Placed
+3144,Not Placed,Not Placed
+47860,Placed,Placed
+5719,Not Placed,Not Placed
+28549,Placed,Placed
+26967,Not Placed,Not Placed
+13085,Not Placed,Not Placed
+28550,Not Placed,Not Placed
+38550,Not Placed,Not Placed
+36913,Not Placed,Not Placed
+33228,Placed,Placed
+27019,Placed,Placed
+26051,Not Placed,Not Placed
+9838,Placed,Placed
+15822,Not Placed,Not Placed
+49298,Placed,Placed
+13411,Not Placed,Not Placed
+49654,Not Placed,Not Placed
+10717,Placed,Placed
+7198,Not Placed,Not Placed
+40492,Not Placed,Not Placed
+44569,Not Placed,Not Placed
+11717,Placed,Placed
+21860,Not Placed,Not Placed
+34243,Not Placed,Not Placed
+32375,Not Placed,Not Placed
+9903,Not Placed,Not Placed
+43467,Not Placed,Not Placed
+49411,Not Placed,Not Placed
+8174,Not Placed,Not Placed
+15903,Placed,Placed
+17208,Not Placed,Not Placed
+8623,Not Placed,Not Placed
+22538,Not Placed,Not Placed
+27843,Not Placed,Not Placed
+29966,Not Placed,Not Placed
+38476,Not Placed,Not Placed
+31889,Placed,Placed
+49302,Placed,Placed
+34160,Not Placed,Not Placed
+3404,Not Placed,Not Placed
+15431,Placed,Placed
+26297,Placed,Placed
+47482,Placed,Placed
+8611,Placed,Placed
+5476,Not Placed,Not Placed
+1272,Placed,Placed
+5806,Not Placed,Not Placed
+8691,Placed,Placed
+15187,Not Placed,Not Placed
+45342,Placed,Placed
+23242,Placed,Placed
+19670,Not Placed,Not Placed
+23441,Placed,Placed
+27346,Placed,Placed
+18768,Placed,Placed
+36584,Not Placed,Not Placed
+9164,Not Placed,Not Placed
+38698,Not Placed,Not Placed
+43605,Not Placed,Not Placed
+11372,Not Placed,Not Placed
+43007,Not Placed,Not Placed
+23110,Placed,Placed
+604,Not Placed,Not Placed
+14495,Placed,Placed
+45401,Placed,Placed
+42609,Placed,Placed
+23962,Not Placed,Not Placed
+16039,Not Placed,Not Placed
+23807,Not Placed,Not Placed
+29273,Placed,Placed
+47038,Placed,Placed
+29356,Not Placed,Not Placed
+38819,Placed,Placed
+35574,Not Placed,Not Placed
+22104,Placed,Placed
+40535,Placed,Placed
+17217,Not Placed,Not Placed
+36509,Not Placed,Not Placed
+9696,Not Placed,Not Placed
+22353,Not Placed,Not Placed
+20761,Placed,Placed
+36968,Placed,Placed
+26958,Not Placed,Not Placed
+43518,Placed,Placed
+26000,Not Placed,Not Placed
+17916,Placed,Placed
+36447,Not Placed,Not Placed
+22933,Not Placed,Not Placed
+34230,Placed,Placed
+10940,Not Placed,Not Placed
+34449,Not Placed,Not Placed
+12823,Not Placed,Not Placed
+21656,Not Placed,Not Placed
+32367,Not Placed,Not Placed
+30319,Not Placed,Not Placed
+2911,Not Placed,Not Placed
+12839,Placed,Placed
+49097,Not Placed,Not Placed
+37541,Not Placed,Not Placed
+28625,Not Placed,Not Placed
+27532,Placed,Placed
+20592,Not Placed,Not Placed
+19586,Placed,Placed
+19244,Not Placed,Not Placed
+2287,Placed,Placed
+28214,Placed,Placed
+33812,Placed,Placed
+21872,Not Placed,Not Placed
+31608,Not Placed,Not Placed
+41393,Not Placed,Not Placed
+30497,Not Placed,Not Placed
+33489,Placed,Placed
+15143,Placed,Placed
+16897,Not Placed,Not Placed
+4118,Not Placed,Not Placed
+24924,Placed,Placed
+1246,Placed,Placed
+13590,Not Placed,Not Placed
+25384,Placed,Placed
+11238,Placed,Placed
+36091,Not Placed,Not Placed
+23342,Placed,Placed
+31916,Placed,Placed
+17487,Placed,Placed
+26328,Placed,Placed
+1188,Not Placed,Not Placed
+33609,Placed,Placed
+23677,Not Placed,Not Placed
+49865,Not Placed,Not Placed
+43147,Not Placed,Not Placed
+42145,Not Placed,Not Placed
+10071,Not Placed,Not Placed
+35602,Placed,Placed
+25071,Placed,Placed
+29428,Not Placed,Not Placed
+40012,Not Placed,Not Placed
+18011,Not Placed,Not Placed
+21516,Placed,Placed
+23371,Placed,Placed
+37093,Placed,Placed
+3448,Not Placed,Not Placed
+30684,Not Placed,Not Placed
+7085,Placed,Placed
+5614,Not Placed,Not Placed
+42950,Placed,Placed
+13342,Not Placed,Not Placed
+3366,Not Placed,Not Placed
+37708,Not Placed,Not Placed
+36406,Placed,Placed
+15248,Not Placed,Not Placed
+31075,Placed,Placed
+29409,Not Placed,Not Placed
+11267,Placed,Placed
+42311,Not Placed,Not Placed
+10453,Not Placed,Not Placed
+6083,Placed,Placed
+6722,Not Placed,Not Placed
+27183,Not Placed,Not Placed
+12216,Not Placed,Not Placed
+44669,Placed,Placed
+25069,Not Placed,Not Placed
+6315,Not Placed,Not Placed
+1236,Not Placed,Not Placed
+40315,Not Placed,Not Placed
+13229,Placed,Placed
+47014,Placed,Placed
+41976,Not Placed,Not Placed
+49522,Placed,Placed
+10582,Placed,Placed
+47341,Not Placed,Not Placed
+25017,Placed,Placed
+48568,Not Placed,Not Placed
+46416,Placed,Placed
+1760,Placed,Placed
+40532,Placed,Placed
+49140,Not Placed,Not Placed
+10327,Not Placed,Not Placed
+2088,Not Placed,Not Placed
+8386,Not Placed,Not Placed
+46845,Not Placed,Not Placed
+18208,Not Placed,Not Placed
+9742,Not Placed,Not Placed
+25571,Placed,Placed
+20152,Not Placed,Not Placed
+27352,Not Placed,Not Placed
+15842,Not Placed,Not Placed
+18621,Not Placed,Not Placed
+7237,Placed,Placed
+40984,Not Placed,Not Placed
+25512,Not Placed,Not Placed
+39209,Placed,Placed
+6775,Not Placed,Not Placed
+10945,Placed,Placed
+12391,Not Placed,Not Placed
+19121,Placed,Placed
+15899,Not Placed,Not Placed
+290,Not Placed,Not Placed
+4218,Placed,Placed
+33899,Not Placed,Not Placed
+6889,Not Placed,Not Placed
+9720,Not Placed,Not Placed
+4924,Not Placed,Not Placed
+5182,Not Placed,Not Placed
+44822,Placed,Placed
+48447,Not Placed,Not Placed
+48014,Not Placed,Not Placed
+44616,Placed,Placed
+33286,Not Placed,Not Placed
+2478,Not Placed,Not Placed
+5860,Not Placed,Not Placed
+25467,Not Placed,Not Placed
+13207,Not Placed,Not Placed
+1013,Placed,Placed
+35211,Not Placed,Not Placed
+8009,Placed,Placed
+7598,Not Placed,Not Placed
+10269,Placed,Placed
+36915,Not Placed,Not Placed
+39182,Not Placed,Not Placed
+41414,Not Placed,Not Placed
+29682,Placed,Placed
+10338,Not Placed,Not Placed
+30080,Not Placed,Not Placed
+45191,Not Placed,Not Placed
+794,Not Placed,Not Placed
+31484,Placed,Placed
+32389,Placed,Placed
+8758,Not Placed,Not Placed
+20232,Not Placed,Not Placed
+4536,Placed,Placed
+19529,Placed,Placed
+4611,Placed,Placed
+29466,Placed,Placed
+30142,Placed,Placed
+4631,Not Placed,Not Placed
+43459,Placed,Placed
+8888,Not Placed,Not Placed
+24883,Not Placed,Not Placed
+35855,Placed,Placed
+133,Placed,Placed
+32208,Not Placed,Not Placed
+14084,Not Placed,Not Placed
+11002,Not Placed,Not Placed
+1910,Not Placed,Not Placed
+40523,Not Placed,Not Placed
+26450,Placed,Placed
+21206,Not Placed,Not Placed
+46486,Placed,Placed
+39910,Placed,Placed
+48698,Placed,Placed
+3049,Placed,Placed
+39089,Not Placed,Not Placed
+1404,Not Placed,Not Placed
+36077,Placed,Placed
+14786,Not Placed,Not Placed
+820,Placed,Placed
+49114,Not Placed,Not Placed
+36123,Not Placed,Not Placed
+26350,Not Placed,Not Placed
+35126,Not Placed,Not Placed
+39313,Placed,Placed
+24623,Not Placed,Not Placed
+29389,Placed,Placed
+34034,Placed,Placed
+17266,Not Placed,Not Placed
+8349,Placed,Placed
+44221,Not Placed,Not Placed
+7641,Placed,Placed
+46880,Not Placed,Not Placed
+5473,Not Placed,Not Placed
+8065,Not Placed,Not Placed
+14116,Placed,Placed
+21089,Placed,Placed
+48179,Placed,Placed
+12950,Not Placed,Not Placed
+39302,Placed,Placed
+26703,Not Placed,Not Placed
+43122,Not Placed,Not Placed
+13228,Not Placed,Not Placed
+24939,Placed,Placed
+2556,Not Placed,Not Placed
+49004,Not Placed,Not Placed
+36264,Not Placed,Not Placed
+13896,Placed,Placed
+45843,Not Placed,Not Placed
+31596,Not Placed,Not Placed
+49957,Not Placed,Not Placed
+33392,Placed,Placed
+15776,Not Placed,Not Placed
+47239,Placed,Placed
+1569,Not Placed,Not Placed
+4601,Not Placed,Not Placed
+27766,Not Placed,Not Placed
+3284,Not Placed,Not Placed
+43347,Not Placed,Not Placed
+35717,Placed,Placed
+15958,Placed,Placed
+40474,Not Placed,Not Placed
+1943,Placed,Placed
+49800,Placed,Placed
+31007,Placed,Placed
+19256,Not Placed,Not Placed
+15279,Not Placed,Not Placed
+22801,Not Placed,Not Placed
+9000,Not Placed,Not Placed
+39415,Placed,Placed
+41200,Placed,Placed
+48176,Placed,Placed
+25470,Placed,Placed
+19474,Not Placed,Not Placed
+23844,Not Placed,Not Placed
+33680,Placed,Placed
+21942,Not Placed,Not Placed
+34171,Not Placed,Not Placed
+19015,Not Placed,Not Placed
+36695,Not Placed,Not Placed
+9858,Placed,Placed
+34210,Not Placed,Not Placed
+35213,Not Placed,Not Placed
+41362,Not Placed,Not Placed
+41695,Placed,Placed
+16345,Not Placed,Not Placed
+35774,Placed,Placed
+14032,Placed,Placed
+43924,Not Placed,Not Placed
+35046,Not Placed,Not Placed
+25628,Placed,Placed
+6035,Not Placed,Not Placed
+10358,Placed,Placed
+27292,Placed,Placed
+19357,Not Placed,Not Placed
+47329,Placed,Placed
+42532,Not Placed,Not Placed
+20376,Not Placed,Not Placed
+26230,Placed,Placed
+20684,Not Placed,Not Placed
+10348,Not Placed,Not Placed
+24680,Not Placed,Not Placed
+43240,Not Placed,Not Placed
+33726,Not Placed,Not Placed
+7957,Not Placed,Not Placed
+5417,Placed,Placed
+38294,Placed,Placed
+25002,Not Placed,Not Placed
+7671,Placed,Placed
+34297,Placed,Placed
+5194,Not Placed,Not Placed
+37602,Placed,Placed
+6117,Placed,Placed
+34763,Placed,Placed
+32054,Not Placed,Not Placed
+7447,Not Placed,Not Placed
+45615,Not Placed,Not Placed
+19761,Placed,Placed
+13346,Not Placed,Not Placed
+49955,Not Placed,Not Placed
+45799,Placed,Placed
+49491,Not Placed,Not Placed
+10027,Not Placed,Not Placed
+43961,Placed,Placed
+39761,Not Placed,Not Placed
+48779,Not Placed,Not Placed
+15441,Placed,Placed
+14196,Not Placed,Not Placed
+5051,Not Placed,Not Placed
+4613,Not Placed,Not Placed
+435,Not Placed,Not Placed
+20370,Not Placed,Not Placed
+9808,Not Placed,Not Placed
+13943,Not Placed,Not Placed
+11741,Not Placed,Not Placed
+33583,Not Placed,Not Placed
+28199,Placed,Placed
+36174,Not Placed,Not Placed
+21343,Placed,Placed
+20403,Placed,Placed
+35928,Placed,Placed
+18103,Not Placed,Not Placed
+29210,Placed,Placed
+22737,Not Placed,Not Placed
+9359,Placed,Placed
+43870,Not Placed,Not Placed
+44347,Not Placed,Not Placed
+44709,Not Placed,Not Placed
+24380,Not Placed,Not Placed
+1009,Not Placed,Not Placed
+31213,Not Placed,Not Placed
+1449,Not Placed,Not Placed
+49510,Placed,Placed
+36443,Not Placed,Not Placed
+7144,Placed,Placed
+18993,Not Placed,Not Placed
+49205,Not Placed,Not Placed
+3989,Not Placed,Not Placed
+49836,Not Placed,Not Placed
+31179,Not Placed,Not Placed
+5399,Not Placed,Not Placed
+36241,Placed,Placed
+49962,Not Placed,Not Placed
+49398,Not Placed,Not Placed
+1516,Not Placed,Not Placed
+49456,Not Placed,Not Placed
+39919,Not Placed,Not Placed
+9839,Placed,Placed
+43046,Not Placed,Not Placed
+43483,Not Placed,Not Placed
+19252,Not Placed,Not Placed
+46369,Placed,Placed
+30184,Not Placed,Not Placed
+5660,Not Placed,Not Placed
+23943,Placed,Placed
+49030,Placed,Placed
+26700,Placed,Placed
+7393,Not Placed,Not Placed
+20538,Placed,Placed
+33895,Not Placed,Not Placed
+38905,Not Placed,Not Placed
+12790,Not Placed,Not Placed
+17712,Placed,Placed
+19782,Not Placed,Not Placed
+47556,Not Placed,Not Placed
+13984,Placed,Placed
+26527,Placed,Placed
+790,Placed,Placed
+41430,Not Placed,Not Placed
+49395,Not Placed,Not Placed
+26831,Placed,Placed
+20938,Not Placed,Not Placed
+12522,Not Placed,Not Placed
+20475,Placed,Placed
+18292,Not Placed,Not Placed
+12692,Placed,Placed
+36805,Placed,Placed
+13083,Not Placed,Not Placed
+35123,Not Placed,Not Placed
+36434,Placed,Placed
+2123,Placed,Placed
+27963,Not Placed,Not Placed
+7549,Not Placed,Not Placed
+22477,Not Placed,Not Placed
+10525,Not Placed,Not Placed
+8292,Placed,Placed
+27450,Placed,Placed
+10579,Not Placed,Not Placed
+29104,Placed,Placed
+4490,Placed,Placed
+13013,Placed,Placed
+22788,Not Placed,Not Placed
+46283,Not Placed,Not Placed
+7579,Not Placed,Not Placed
+37967,Not Placed,Not Placed
+33646,Not Placed,Not Placed
+23639,Placed,Placed
+23612,Placed,Placed
+12,Not Placed,Not Placed
+27596,Placed,Placed
+14168,Not Placed,Not Placed
+2944,Placed,Placed
+14594,Placed,Placed
+3235,Not Placed,Not Placed
+18646,Not Placed,Not Placed
+835,Not Placed,Not Placed
+47518,Placed,Placed
+29034,Placed,Placed
+23593,Not Placed,Not Placed
+32732,Placed,Placed
+30473,Not Placed,Not Placed
+45657,Not Placed,Not Placed
+20430,Not Placed,Not Placed
+18865,Not Placed,Not Placed
+12498,Not Placed,Not Placed
+315,Not Placed,Not Placed
+36817,Not Placed,Not Placed
+34604,Placed,Placed
+49635,Placed,Placed
+37544,Not Placed,Not Placed
+37515,Not Placed,Not Placed
+1945,Not Placed,Not Placed
+36870,Not Placed,Not Placed
+8158,Not Placed,Not Placed
+1010,Not Placed,Not Placed
+25792,Not Placed,Not Placed
+41856,Placed,Placed
+29013,Not Placed,Not Placed
+23729,Placed,Placed
+19962,Not Placed,Not Placed
+9018,Not Placed,Not Placed
+26494,Placed,Placed
+2952,Not Placed,Not Placed
+37985,Not Placed,Not Placed
+11407,Not Placed,Not Placed
+29533,Placed,Placed
+964,Not Placed,Not Placed
+36103,Not Placed,Not Placed
+18848,Placed,Placed
+21451,Not Placed,Not Placed
+39703,Not Placed,Not Placed
+19973,Placed,Placed
+1400,Not Placed,Not Placed
+22539,Not Placed,Not Placed
+18340,Placed,Placed
+18102,Placed,Placed
+1712,Not Placed,Not Placed
+9737,Not Placed,Not Placed
+33428,Not Placed,Not Placed
+39139,Not Placed,Not Placed
+45454,Not Placed,Not Placed
+27348,Not Placed,Not Placed
+26862,Not Placed,Not Placed
+41678,Not Placed,Not Placed
+22302,Not Placed,Not Placed
+39747,Placed,Placed
+1309,Not Placed,Not Placed
+11320,Not Placed,Not Placed
+21382,Not Placed,Not Placed
+37939,Not Placed,Not Placed
+5023,Placed,Placed
+35911,Placed,Placed
+15651,Not Placed,Not Placed
+30955,Placed,Placed
+36026,Not Placed,Not Placed
+48478,Not Placed,Not Placed
+29082,Not Placed,Not Placed
+31372,Placed,Placed
+705,Not Placed,Not Placed
+29972,Not Placed,Not Placed
+37371,Placed,Placed
+28042,Not Placed,Not Placed
+4966,Placed,Placed
+28794,Not Placed,Not Placed
+25627,Placed,Placed
+6392,Not Placed,Not Placed
+10998,Not Placed,Not Placed
+33894,Placed,Placed
+18473,Placed,Placed
+49716,Placed,Placed
+16614,Not Placed,Not Placed
+23216,Not Placed,Not Placed
+26716,Placed,Placed
+31867,Placed,Placed
+49053,Not Placed,Not Placed
+6179,Placed,Placed
+14964,Placed,Placed
+46434,Not Placed,Not Placed
+42017,Placed,Placed
+28334,Not Placed,Not Placed
+48523,Placed,Placed
+40415,Not Placed,Not Placed
+44660,Not Placed,Not Placed
+15955,Not Placed,Not Placed
+28419,Placed,Placed
+8190,Placed,Placed
+18002,Not Placed,Not Placed
+29979,Not Placed,Not Placed
+39076,Not Placed,Not Placed
+26654,Not Placed,Not Placed
+49326,Not Placed,Not Placed
+14707,Not Placed,Not Placed
+9480,Not Placed,Not Placed
+14212,Placed,Placed
+28803,Not Placed,Not Placed
+39650,Placed,Placed
+15906,Placed,Placed
+27703,Not Placed,Not Placed
+34588,Not Placed,Not Placed
+18099,Placed,Placed
+7977,Not Placed,Not Placed
+10073,Not Placed,Not Placed
+15536,Not Placed,Not Placed
+18311,Not Placed,Not Placed
+45979,Not Placed,Not Placed
+42531,Not Placed,Not Placed
+5576,Not Placed,Not Placed
+20349,Not Placed,Not Placed
+27706,Not Placed,Not Placed
+675,Placed,Placed
+7353,Not Placed,Not Placed
+8968,Not Placed,Not Placed
+24395,Not Placed,Not Placed
+36097,Placed,Placed
+37685,Not Placed,Not Placed
+3021,Not Placed,Not Placed
+516,Not Placed,Not Placed
+43675,Not Placed,Not Placed
+28526,Not Placed,Not Placed
+26246,Not Placed,Not Placed
+39025,Placed,Placed
+27898,Placed,Placed
+16254,Placed,Placed
+3115,Placed,Placed
+2642,Not Placed,Not Placed
+31392,Placed,Placed
+24766,Placed,Placed
+49528,Placed,Placed
+45202,Placed,Placed
+24831,Not Placed,Not Placed
+44783,Not Placed,Not Placed
+23243,Placed,Placed
+26081,Not Placed,Not Placed
+11613,Placed,Placed
+18819,Not Placed,Not Placed
+9619,Not Placed,Not Placed
+20798,Placed,Placed
+47382,Not Placed,Not Placed
+4453,Not Placed,Not Placed
+25655,Not Placed,Not Placed
+31158,Not Placed,Not Placed
+46521,Placed,Placed
+9411,Placed,Placed
+18916,Not Placed,Not Placed
+30568,Placed,Placed
+17403,Not Placed,Not Placed
+45728,Placed,Placed
+29203,Placed,Placed
+46793,Not Placed,Not Placed
+27309,Not Placed,Not Placed
+16259,Placed,Placed
+21211,Not Placed,Not Placed
+7264,Not Placed,Not Placed
+12120,Placed,Placed
+46714,Not Placed,Not Placed
+34358,Not Placed,Not Placed
+33032,Placed,Placed
+14291,Not Placed,Not Placed
+23065,Placed,Placed
+37829,Placed,Placed
+22199,Not Placed,Not Placed
+44071,Not Placed,Not Placed
+32437,Not Placed,Not Placed
+42098,Not Placed,Not Placed
+46562,Placed,Placed
+32946,Not Placed,Not Placed
+9430,Placed,Placed
+140,Not Placed,Not Placed
+41001,Placed,Placed
+5166,Not Placed,Not Placed
+30571,Placed,Placed
+16697,Not Placed,Not Placed
+44267,Not Placed,Not Placed
+28489,Not Placed,Not Placed
+37059,Placed,Placed
+44608,Placed,Placed
+43330,Not Placed,Not Placed
+41952,Not Placed,Not Placed
+17422,Placed,Placed
+8188,Placed,Placed
+2294,Not Placed,Not Placed
+39723,Placed,Placed
+5534,Not Placed,Not Placed
+37693,Not Placed,Not Placed
+43324,Not Placed,Not Placed
+31590,Not Placed,Not Placed
+23553,Not Placed,Not Placed
+9689,Not Placed,Not Placed
+7873,Not Placed,Not Placed
+4357,Not Placed,Not Placed
+48554,Placed,Placed
+29673,Not Placed,Not Placed
+6429,Not Placed,Not Placed
+22940,Not Placed,Not Placed
+42304,Not Placed,Not Placed
+36506,Not Placed,Not Placed
+28053,Not Placed,Not Placed
+45902,Placed,Placed
+31013,Placed,Placed
+28072,Not Placed,Not Placed
+8671,Not Placed,Not Placed
+8066,Placed,Placed
+20499,Placed,Placed
+13023,Not Placed,Not Placed
+11534,Not Placed,Not Placed
+26335,Placed,Placed
+35515,Not Placed,Not Placed
+49194,Not Placed,Not Placed
+34923,Placed,Placed
+41312,Not Placed,Not Placed
+3530,Placed,Placed
+18979,Not Placed,Not Placed
+3621,Not Placed,Not Placed
+12613,Not Placed,Not Placed
+31711,Not Placed,Not Placed
+14885,Not Placed,Not Placed
+26664,Placed,Placed
+22436,Placed,Placed
+8199,Placed,Placed
+45891,Placed,Placed
+8288,Not Placed,Not Placed
+10833,Not Placed,Not Placed
+30706,Placed,Placed
+39709,Not Placed,Not Placed
+31461,Placed,Placed
+13233,Placed,Placed
+19709,Not Placed,Not Placed
+11154,Not Placed,Not Placed
+13901,Placed,Placed
+1841,Placed,Placed
+26184,Placed,Placed
+14557,Not Placed,Not Placed
+23967,Placed,Placed
+30060,Not Placed,Not Placed
+21774,Not Placed,Not Placed
+47304,Placed,Placed
+37879,Placed,Placed
+4155,Not Placed,Not Placed
+1485,Not Placed,Not Placed
+14872,Placed,Placed
+13028,Not Placed,Not Placed
+33692,Not Placed,Not Placed
+19283,Not Placed,Not Placed
+36834,Not Placed,Not Placed
+27634,Not Placed,Not Placed
+259,Placed,Placed
+10247,Placed,Placed
+46196,Not Placed,Not Placed
+33643,Not Placed,Not Placed
+17419,Placed,Placed
+16090,Not Placed,Not Placed
+17809,Not Placed,Not Placed
+33994,Placed,Placed
+8444,Placed,Placed
+15989,Placed,Placed
+5059,Not Placed,Not Placed
+19785,Not Placed,Not Placed
+36798,Not Placed,Not Placed
+35092,Placed,Placed
+16481,Placed,Placed
+34132,Not Placed,Not Placed
+17315,Not Placed,Not Placed
+32558,Placed,Placed
+20491,Not Placed,Not Placed
+33226,Placed,Placed
+5131,Not Placed,Not Placed
+8705,Not Placed,Not Placed
+36387,Not Placed,Not Placed
+11425,Not Placed,Not Placed
+12494,Not Placed,Not Placed
+17649,Not Placed,Not Placed
+13973,Not Placed,Not Placed
+49301,Not Placed,Not Placed
+34784,Placed,Placed
+24523,Not Placed,Not Placed
+29286,Not Placed,Not Placed
+15611,Placed,Placed
+44328,Not Placed,Not Placed
+11520,Placed,Placed
+12726,Not Placed,Not Placed
+12296,Not Placed,Not Placed
+37301,Not Placed,Not Placed
+23169,Not Placed,Not Placed
+10475,Not Placed,Not Placed
+12177,Placed,Placed
+22254,Placed,Placed
+14299,Not Placed,Not Placed
+37718,Not Placed,Not Placed
+4732,Not Placed,Not Placed
+43299,Not Placed,Not Placed
+47498,Not Placed,Not Placed
+28295,Placed,Placed
+5237,Placed,Placed
+39229,Not Placed,Not Placed
+26542,Not Placed,Not Placed
+37153,Not Placed,Not Placed
+13507,Not Placed,Not Placed
+14200,Placed,Placed
+32634,Placed,Placed
+14671,Not Placed,Not Placed
+14472,Placed,Placed
+1366,Placed,Placed
+24737,Not Placed,Not Placed
+46829,Placed,Placed
+27413,Not Placed,Not Placed
+42546,Not Placed,Not Placed
+1138,Not Placed,Not Placed
+37443,Not Placed,Not Placed
+5215,Not Placed,Not Placed
+38079,Not Placed,Not Placed
+16066,Not Placed,Not Placed
+48424,Placed,Placed
+43809,Not Placed,Not Placed
+36106,Not Placed,Not Placed
+45081,Placed,Placed
+5659,Placed,Placed
+14877,Not Placed,Not Placed
+7097,Placed,Placed
+18755,Not Placed,Not Placed
+7867,Not Placed,Not Placed
+12089,Placed,Placed
+39071,Not Placed,Not Placed
+23949,Placed,Placed
+1042,Placed,Placed
+2596,Placed,Placed
+36324,Not Placed,Not Placed
+20981,Not Placed,Not Placed
+17193,Not Placed,Not Placed
+16060,Placed,Placed
+8624,Placed,Placed
+8496,Placed,Placed
+49706,Not Placed,Not Placed
+11326,Not Placed,Not Placed
+12678,Not Placed,Not Placed
+18816,Placed,Placed
+28166,Not Placed,Not Placed
+42726,Not Placed,Not Placed
+9828,Placed,Placed
+18953,Placed,Placed
+2739,Not Placed,Not Placed
+30038,Not Placed,Not Placed
+42418,Not Placed,Not Placed
+42830,Placed,Placed
+23678,Not Placed,Not Placed
+36698,Placed,Placed
+36783,Not Placed,Not Placed
+9387,Placed,Placed
+25515,Not Placed,Not Placed
+47912,Not Placed,Not Placed
+1119,Placed,Placed
+35171,Placed,Placed
+48211,Placed,Placed
+13308,Placed,Placed
+42474,Placed,Placed
+41658,Not Placed,Not Placed
+15358,Not Placed,Not Placed
+5538,Not Placed,Not Placed
+10098,Not Placed,Not Placed
+42241,Not Placed,Not Placed
+7744,Not Placed,Not Placed
+15339,Not Placed,Not Placed
+45402,Not Placed,Not Placed
+9955,Not Placed,Not Placed
+34205,Not Placed,Not Placed
+31922,Not Placed,Not Placed
+246,Placed,Placed
+36802,Not Placed,Not Placed
+26522,Not Placed,Not Placed
+19765,Not Placed,Not Placed
+31024,Placed,Placed
+20298,Not Placed,Not Placed
+48498,Not Placed,Not Placed
+20917,Not Placed,Not Placed
+32252,Not Placed,Not Placed
+12766,Not Placed,Not Placed
+29721,Not Placed,Not Placed
+10956,Not Placed,Not Placed
+41259,Placed,Placed
+42259,Not Placed,Not Placed
+44767,Not Placed,Not Placed
+18269,Not Placed,Not Placed
+30541,Not Placed,Not Placed
+38872,Placed,Placed
+20054,Placed,Placed
+20283,Not Placed,Not Placed
+43543,Not Placed,Not Placed
+5290,Not Placed,Not Placed
+12761,Not Placed,Not Placed
+47763,Not Placed,Not Placed
+29872,Not Placed,Not Placed
+447,Not Placed,Not Placed
+17120,Placed,Placed
+13648,Placed,Placed
+48472,Not Placed,Not Placed
+40640,Not Placed,Not Placed
+46999,Placed,Placed
+3816,Not Placed,Not Placed
+41368,Placed,Placed
+44562,Not Placed,Not Placed
